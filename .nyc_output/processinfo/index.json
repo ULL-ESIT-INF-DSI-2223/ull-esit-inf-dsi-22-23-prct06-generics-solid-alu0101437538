@@ -1,1 +1,72 @@
-{"processes":{"3d09cab4-7030-424c-87b1-68bc74d0ff24":{"parent":null,"children":["980774c0-e9c6-4d23-a4a3-26c3d8a0aa47"]},"980774c0-e9c6-4d23-a4a3-26c3d8a0aa47":{"parent":"3d09cab4-7030-424c-87b1-68bc74d0ff24","children":[]}},"files":{"/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-pe1/NumericPrintableCollection.ts":["980774c0-e9c6-4d23-a4a3-26c3d8a0aa47"],"/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-pe1/PrintableCollection.ts":["980774c0-e9c6-4d23-a4a3-26c3d8a0aa47"],"/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-pe1/StringPrintableCollection.ts":["980774c0-e9c6-4d23-a4a3-26c3d8a0aa47"]},"externalIds":{}}
+{
+  "processes": {
+    "26ec5727-1393-4858-89a3-1275f358d5a1": {
+      "parent": "94393f9f-9c1d-4eab-aa86-6fe3a63e4928",
+      "children": []
+    },
+    "94393f9f-9c1d-4eab-aa86-6fe3a63e4928": {
+      "parent": null,
+      "children": ["26ec5727-1393-4858-89a3-1275f358d5a1"]
+    }
+  },
+  "files": {
+    "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-1/Documental.ts": [
+      "26ec5727-1393-4858-89a3-1275f358d5a1"
+    ],
+    "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-1/DocumentariesStreamableCollection.ts": [
+      "26ec5727-1393-4858-89a3-1275f358d5a1"
+    ],
+    "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-1/BasicStreamableCollection.ts": [
+      "26ec5727-1393-4858-89a3-1275f358d5a1"
+    ],
+    "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-1/MoviesStreamableCollection.ts": [
+      "26ec5727-1393-4858-89a3-1275f358d5a1"
+    ],
+    "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-1/Pelicula.ts": [
+      "26ec5727-1393-4858-89a3-1275f358d5a1"
+    ],
+    "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-1/Serie.ts": [
+      "26ec5727-1393-4858-89a3-1275f358d5a1"
+    ],
+    "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-1/SeriesStreamableCollection.ts": [
+      "26ec5727-1393-4858-89a3-1275f358d5a1"
+    ],
+    "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-2/Lista.ts": [
+      "26ec5727-1393-4858-89a3-1275f358d5a1"
+    ],
+    "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-3/Discografia.ts": [
+      "26ec5727-1393-4858-89a3-1275f358d5a1"
+    ],
+    "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-3/Cancion.ts": [
+      "26ec5727-1393-4858-89a3-1275f358d5a1"
+    ],
+    "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-3/Disco.ts": [
+      "26ec5727-1393-4858-89a3-1275f358d5a1"
+    ],
+    "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-3/Biblioteca.ts": [
+      "26ec5727-1393-4858-89a3-1275f358d5a1"
+    ],
+    "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-3/Grupo.ts": [
+      "26ec5727-1393-4858-89a3-1275f358d5a1"
+    ],
+    "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-3/Artista.ts": [
+      "26ec5727-1393-4858-89a3-1275f358d5a1"
+    ],
+    "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-3/Solista.ts": [
+      "26ec5727-1393-4858-89a3-1275f358d5a1"
+    ],
+    "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-3/Single.ts": [
+      "26ec5727-1393-4858-89a3-1275f358d5a1"
+    ],
+    "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-pe1/NumericPrintableCollection.ts": [
+      "26ec5727-1393-4858-89a3-1275f358d5a1"
+    ],
+    "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-pe1/PrintableCollection.ts": [
+      "26ec5727-1393-4858-89a3-1275f358d5a1"
+    ],
+    "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-pe1/StringPrintableCollection.ts": [
+      "26ec5727-1393-4858-89a3-1275f358d5a1"
+    ]
+  },
+  "externalIds": {}
+}

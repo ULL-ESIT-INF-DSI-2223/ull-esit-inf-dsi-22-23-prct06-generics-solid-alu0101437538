@@ -1,0 +1,4031 @@
+{
+  "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-1/Documental.ts": {
+    "path": "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-1/Documental.ts",
+    "statementMap": {
+      "0": {
+        "start": { "line": 2, "column": 0 },
+        "end": { "line": 2, "column": 62 }
+      },
+      "1": {
+        "start": { "line": 3, "column": 0 },
+        "end": { "line": 3, "column": 28 }
+      },
+      "2": {
+        "start": { "line": 21, "column": 8 },
+        "end": { "line": 21, "column": 27 }
+      },
+      "3": {
+        "start": { "line": 22, "column": 8 },
+        "end": { "line": 22, "column": 27 }
+      },
+      "4": {
+        "start": { "line": 23, "column": 8 },
+        "end": { "line": 23, "column": 39 }
+      },
+      "5": {
+        "start": { "line": 24, "column": 8 },
+        "end": { "line": 24, "column": 39 }
+      },
+      "6": {
+        "start": { "line": 30, "column": 8 },
+        "end": { "line": 30, "column": 26 }
+      },
+      "7": {
+        "start": { "line": 36, "column": 8 },
+        "end": { "line": 36, "column": 26 }
+      },
+      "8": {
+        "start": { "line": 42, "column": 8 },
+        "end": { "line": 42, "column": 26 }
+      },
+      "9": {
+        "start": { "line": 48, "column": 8 },
+        "end": { "line": 48, "column": 26 }
+      },
+      "10": {
+        "start": { "line": 54, "column": 8 },
+        "end": { "line": 54, "column": 32 }
+      },
+      "11": {
+        "start": { "line": 60, "column": 8 },
+        "end": { "line": 60, "column": 38 }
+      },
+      "12": {
+        "start": { "line": 66, "column": 8 },
+        "end": { "line": 66, "column": 32 }
+      },
+      "13": {
+        "start": { "line": 72, "column": 8 },
+        "end": { "line": 72, "column": 38 }
+      },
+      "14": {
+        "start": { "line": 75, "column": 0 },
+        "end": { "line": 75, "column": 32 }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "(anonymous_0)",
+        "decl": {
+          "start": { "line": 20, "column": 4 },
+          "end": { "line": 20, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 20, "column": 56 },
+          "end": { "line": 25, "column": 5 }
+        },
+        "line": 20
+      },
+      "1": {
+        "name": "(anonymous_1)",
+        "decl": {
+          "start": { "line": 29, "column": 4 },
+          "end": { "line": 29, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 29, "column": 15 },
+          "end": { "line": 31, "column": 5 }
+        },
+        "line": 29
+      },
+      "2": {
+        "name": "(anonymous_2)",
+        "decl": {
+          "start": { "line": 35, "column": 4 },
+          "end": { "line": 35, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 35, "column": 19 },
+          "end": { "line": 37, "column": 5 }
+        },
+        "line": 35
+      },
+      "3": {
+        "name": "(anonymous_3)",
+        "decl": {
+          "start": { "line": 41, "column": 4 },
+          "end": { "line": 41, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 41, "column": 15 },
+          "end": { "line": 43, "column": 5 }
+        },
+        "line": 41
+      },
+      "4": {
+        "name": "(anonymous_4)",
+        "decl": {
+          "start": { "line": 47, "column": 4 },
+          "end": { "line": 47, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 47, "column": 19 },
+          "end": { "line": 49, "column": 5 }
+        },
+        "line": 47
+      },
+      "5": {
+        "name": "(anonymous_5)",
+        "decl": {
+          "start": { "line": 53, "column": 4 },
+          "end": { "line": 53, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 53, "column": 21 },
+          "end": { "line": 55, "column": 5 }
+        },
+        "line": 53
+      },
+      "6": {
+        "name": "(anonymous_6)",
+        "decl": {
+          "start": { "line": 59, "column": 4 },
+          "end": { "line": 59, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 59, "column": 31 },
+          "end": { "line": 61, "column": 5 }
+        },
+        "line": 59
+      },
+      "7": {
+        "name": "(anonymous_7)",
+        "decl": {
+          "start": { "line": 65, "column": 4 },
+          "end": { "line": 65, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 65, "column": 21 },
+          "end": { "line": 67, "column": 5 }
+        },
+        "line": 65
+      },
+      "8": {
+        "name": "(anonymous_8)",
+        "decl": {
+          "start": { "line": 71, "column": 4 },
+          "end": { "line": 71, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 71, "column": 31 },
+          "end": { "line": 73, "column": 5 }
+        },
+        "line": 71
+      }
+    },
+    "branchMap": {},
+    "s": {
+      "0": 1,
+      "1": 1,
+      "2": 2,
+      "3": 2,
+      "4": 2,
+      "5": 2,
+      "6": 4,
+      "7": 1,
+      "8": 4,
+      "9": 1,
+      "10": 2,
+      "11": 1,
+      "12": 2,
+      "13": 1,
+      "14": 1
+    },
+    "f": {
+      "0": 2,
+      "1": 4,
+      "2": 1,
+      "3": 4,
+      "4": 1,
+      "5": 2,
+      "6": 1,
+      "7": 2,
+      "8": 1
+    },
+    "b": {},
+    "inputSourceMap": {
+      "version": 3,
+      "file": "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-1/Documental.ts",
+      "sources": [
+        "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-1/Documental.ts"
+      ],
+      "names": [],
+      "mappings": ";;;AAAA;;GAEG;AACH,MAAa,UAAU;IASE;IAAuB;IAAuB;IAA6B;IARhG;;;;;;;OAOG;IACH,YAAqB,KAAa,EAAU,KAAa,EAAU,WAAmB,EAAU,WAAmB;QAA9F,UAAK,GAAL,KAAK,CAAQ;QAAU,UAAK,GAAL,KAAK,CAAQ;QAAU,gBAAW,GAAX,WAAW,CAAQ;QAAU,gBAAW,GAAX,WAAW,CAAQ;IACnH,CAAC;IAED;;OAEG;IACH,IAAI,IAAI;QACJ,OAAO,IAAI,CAAC,KAAK,CAAC;IACtB,CAAC;IAED;;OAEG;IACH,IAAI,IAAI,CAAC,IAAI;QACT,IAAI,CAAC,KAAK,GAAG,IAAI,CAAC;IACtB,CAAC;IAED;;OAEG;IACH,IAAI,IAAI;QACJ,OAAO,IAAI,CAAC,KAAK,CAAC;IACtB,CAAC;IAED;;OAEG;IACH,IAAI,IAAI,CAAC,IAAI;QACT,IAAI,CAAC,KAAK,GAAG,IAAI,CAAC;IACtB,CAAC;IAED;;OAEG;IACH,IAAI,UAAU;QACV,OAAO,IAAI,CAAC,WAAW,CAAC;IAC5B,CAAC;IAED;;OAEG;IACH,IAAI,UAAU,CAAC,UAAU;QACrB,IAAI,CAAC,WAAW,GAAG,UAAU,CAAC;IAClC,CAAC;IAED;;OAEG;IACH,IAAI,UAAU;QACV,OAAO,IAAI,CAAC,WAAW,CAAC;IAC5B,CAAC;IAED;;OAEG;IACH,IAAI,UAAU,CAAC,UAAU;QACrB,IAAI,CAAC,WAAW,GAAG,UAAU,CAAC;IAClC,CAAC;CACJ;AAnED,gCAmEC",
+      "sourcesContent": [
+        "/**\n * Clase que representa una documental\n */\nexport class Documental  {\n    /**\n     * Constructor de la clase Documental\n     * @param _name Nombre del documental\n     * @param _year Año de salida del documental\n     * @param _genres Géneros del documental\n     * @param _partNumber Número de las partes en las que se divide el documental\n     * @param _partLength Duración media de las partes del documental\n     */\n    constructor (private _name: string ,private _year: number, private _partNumber: number, private _partLength: number) {\n    }\n\n    /**\n     * Getter del nombre\n     */\n    get name() {\n        return this._name;\n    }\n\n    /**\n     * Setter del nombre\n     */\n    set name(name) {\n        this._name = name;\n    }\n\n    /**\n     * Getter del año\n     */\n    get year() {\n        return this._year;\n    }\n\n    /**\n     * Setter del año\n     */\n    set year(year) {\n        this._year = year;\n    }\n\n    /**\n     * Getter del número de partes\n     */\n    get partNumber() {\n        return this._partNumber;\n    }\n\n    /**\n     * Setter del número de partes\n     */\n    set partNumber(partNumber) {\n        this._partNumber = partNumber;\n    }\n\n    /**\n     * Getter de la duración de cada parte\n     */\n    get partLength() {\n        return this._partLength;\n    }\n\n    /**\n     * Setter de la duración de cada parte\n     */\n    set partLength(partLength) {\n        this._partLength = partLength;\n    }\n}"
+      ]
+    },
+    "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
+    "hash": "7c121f1378f258a0db3a9e5c342d93cce3723a92",
+    "contentHash": "c799548a6225211a68566b2b71988f6f253a883a8ac7c8711989743ab4fe3f73"
+  },
+  "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-1/DocumentariesStreamableCollection.ts": {
+    "path": "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-1/DocumentariesStreamableCollection.ts",
+    "statementMap": {
+      "0": {
+        "start": { "line": 2, "column": 0 },
+        "end": { "line": 2, "column": 62 }
+      },
+      "1": {
+        "start": { "line": 3, "column": 0 },
+        "end": { "line": 3, "column": 51 }
+      },
+      "2": {
+        "start": { "line": 4, "column": 36 },
+        "end": { "line": 4, "column": 74 }
+      },
+      "3": {
+        "start": { "line": 7, "column": 8 },
+        "end": { "line": 7, "column": 26 }
+      },
+      "4": {
+        "start": { "line": 10, "column": 22 },
+        "end": { "line": 10, "column": 24 }
+      },
+      "5": {
+        "start": { "line": 11, "column": 8 },
+        "end": { "line": 17, "column": 9 }
+      },
+      "6": {
+        "start": { "line": 11, "column": 21 },
+        "end": { "line": 11, "column": 22 }
+      },
+      "7": {
+        "start": { "line": 12, "column": 12 },
+        "end": { "line": 16, "column": 13 }
+      },
+      "8": {
+        "start": { "line": 15, "column": 16 },
+        "end": { "line": 15, "column": 47 }
+      },
+      "9": {
+        "start": { "line": 18, "column": 8 },
+        "end": { "line": 18, "column": 21 }
+      },
+      "10": {
+        "start": { "line": 21, "column": 22 },
+        "end": { "line": 21, "column": 24 }
+      },
+      "11": {
+        "start": { "line": 22, "column": 8 },
+        "end": { "line": 26, "column": 9 }
+      },
+      "12": {
+        "start": { "line": 22, "column": 21 },
+        "end": { "line": 22, "column": 22 }
+      },
+      "13": {
+        "start": { "line": 23, "column": 12 },
+        "end": { "line": 25, "column": 13 }
+      },
+      "14": {
+        "start": { "line": 24, "column": 16 },
+        "end": { "line": 24, "column": 47 }
+      },
+      "15": {
+        "start": { "line": 27, "column": 8 },
+        "end": { "line": 27, "column": 21 }
+      },
+      "16": {
+        "start": { "line": 30, "column": 21 },
+        "end": { "line": 30, "column": 23 }
+      },
+      "17": {
+        "start": { "line": 31, "column": 8 },
+        "end": { "line": 33, "column": 9 }
+      },
+      "18": {
+        "start": { "line": 31, "column": 21 },
+        "end": { "line": 31, "column": 22 }
+      },
+      "19": {
+        "start": { "line": 32, "column": 12 },
+        "end": { "line": 32, "column": 160 }
+      },
+      "20": {
+        "start": { "line": 34, "column": 8 },
+        "end": { "line": 34, "column": 22 }
+      },
+      "21": {
+        "start": { "line": 37, "column": 0 },
+        "end": { "line": 37, "column": 78 }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "(anonymous_0)",
+        "decl": {
+          "start": { "line": 6, "column": 4 },
+          "end": { "line": 6, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 6, "column": 28 },
+          "end": { "line": 8, "column": 5 }
+        },
+        "line": 6
+      },
+      "1": {
+        "name": "(anonymous_1)",
+        "decl": {
+          "start": { "line": 9, "column": 4 },
+          "end": { "line": 9, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 9, "column": 24 },
+          "end": { "line": 19, "column": 5 }
+        },
+        "line": 9
+      },
+      "2": {
+        "name": "(anonymous_2)",
+        "decl": {
+          "start": { "line": 20, "column": 4 },
+          "end": { "line": 20, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 20, "column": 24 },
+          "end": { "line": 28, "column": 5 }
+        },
+        "line": 20
+      },
+      "3": {
+        "name": "(anonymous_3)",
+        "decl": {
+          "start": { "line": 29, "column": 4 },
+          "end": { "line": 29, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 29, "column": 12 },
+          "end": { "line": 35, "column": 5 }
+        },
+        "line": 29
+      }
+    },
+    "branchMap": {
+      "0": {
+        "loc": {
+          "start": { "line": 12, "column": 12 },
+          "end": { "line": 16, "column": 13 }
+        },
+        "type": "if",
+        "locations": [
+          {
+            "start": { "line": 12, "column": 12 },
+            "end": { "line": 16, "column": 13 }
+          },
+          {
+            "start": { "line": 12, "column": 12 },
+            "end": { "line": 16, "column": 13 }
+          }
+        ],
+        "line": 12
+      },
+      "1": {
+        "loc": {
+          "start": { "line": 23, "column": 12 },
+          "end": { "line": 25, "column": 13 }
+        },
+        "type": "if",
+        "locations": [
+          {
+            "start": { "line": 23, "column": 12 },
+            "end": { "line": 25, "column": 13 }
+          },
+          {
+            "start": { "line": 23, "column": 12 },
+            "end": { "line": 25, "column": 13 }
+          }
+        ],
+        "line": 23
+      }
+    },
+    "s": {
+      "0": 1,
+      "1": 1,
+      "2": 1,
+      "3": 2,
+      "4": 2,
+      "5": 2,
+      "6": 2,
+      "7": 2,
+      "8": 1,
+      "9": 2,
+      "10": 2,
+      "11": 2,
+      "12": 2,
+      "13": 2,
+      "14": 1,
+      "15": 2,
+      "16": 1,
+      "17": 1,
+      "18": 1,
+      "19": 1,
+      "20": 1,
+      "21": 1
+    },
+    "f": { "0": 2, "1": 2, "2": 2, "3": 1 },
+    "b": { "0": [1, 1], "1": [1, 1] },
+    "inputSourceMap": {
+      "version": 3,
+      "file": "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-1/DocumentariesStreamableCollection.ts",
+      "sources": [
+        "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-1/DocumentariesStreamableCollection.ts"
+      ],
+      "names": [],
+      "mappings": ";;;AAAA,2EAAwE;AAGxE,MAAa,iCAAkC,SAAQ,qDAAqC;IAExF,YAAY,UAAwB;QAChC,KAAK,CAAC,UAAU,CAAC,CAAA;IACrB,CAAC;IAED,aAAa,CAAC,IAAY;QACtB,MAAM,KAAK,GAAiB,EAAE,CAAA;QAC9B,KAAK,IAAI,CAAC,GAAG,CAAC,EAAE,CAAC,GAAG,IAAI,CAAC,UAAU,CAAC,MAAM,EAAE,EAAE,CAAC,EAAE;YAC7C,IACI,IAAI,CAAC,UAAU,CAAC,CAAC,CAAC,CAAC,IAAI;iBACpB,WAAW,EAAE;iBACb,QAAQ,CAAC,IAAI,CAAC,WAAW,EAAE,CAAC,KAAK,IAAI,EACxC;gBACA,KAAK,CAAC,IAAI,CAAC,IAAI,CAAC,UAAU,CAAC,CAAC,CAAC,CAAC,CAAC;aAChC;SACN;QACD,OAAO,KAAK,CAAA;IAChB,CAAC;IAED,aAAa,CAAC,IAAY;QACtB,MAAM,KAAK,GAAiB,EAAE,CAAA;QAC9B,KAAK,IAAI,CAAC,GAAG,CAAC,EAAE,CAAC,GAAG,IAAI,CAAC,UAAU,CAAC,MAAM,EAAE,EAAE,CAAC,EAAE;YAC7C,IAAK,IAAI,CAAC,UAAU,CAAC,CAAC,CAAC,CAAC,IAAI,KAAK,IAAI,EAAE;gBACnC,KAAK,CAAC,IAAI,CAAC,IAAI,CAAC,UAAU,CAAC,CAAC,CAAC,CAAC,CAAC;aAClC;SACJ;QACD,OAAO,KAAK,CAAA;IAChB,CAAC;IAED,KAAK;QACD,IAAI,MAAM,GAAG,EAAE,CAAA;QACf,KAAK,IAAI,CAAC,GAAG,CAAC,EAAE,CAAC,GAAG,IAAI,CAAC,UAAU,CAAC,MAAM,EAAE,EAAE,CAAC,EAAE;YAC7C,MAAM,IAAI,GAAG,IAAI,CAAC,UAAU,CAAC,CAAC,CAAC,CAAC,IAAI,KAAK,IAAI,CAAC,UAAU,CAAC,CAAC,CAAC,CAAC,IAAI,MAAM,IAAI,CAAC,UAAU,CAAC,CAAC,CAAC,CAAC,UAAU,cAAc,IAAI,CAAC,UAAU,CAAC,CAAC,CAAC,CAAC,UAAU,KAAK,CAAA;SACtJ;QACD,OAAO,MAAM,CAAA;IACjB,CAAC;CACJ;AArCD,8EAqCC",
+      "sourcesContent": [
+        "import { BasicStreamableCollection } from \"./BasicStreamableCollection\";\nimport { Documental } from \"./Documental\";\n\nexport class DocumentariesStreamableCollection extends BasicStreamableCollection<Documental> {\n\n    constructor(collection: Documental[]) {\n        super(collection)\n    }\n\n    getItemByName(name: string): Documental[] {\n        const array: Documental[] = []\n        for (let i = 0; i < this.collection.length; ++i) {\n            if (\n                this.collection[i].name\n                  .toLowerCase()\n                  .includes(name.toLowerCase()) === true\n              ) {\n                array.push(this.collection[i]);\n              }\n        }\n        return array\n    }\n\n    getItemByYear(year: number): Documental[] {\n        const array: Documental[] = []\n        for (let i = 0; i < this.collection.length; ++i) {\n            if ( this.collection[i].year === year) {\n                array.push(this.collection[i]);\n            }\n        }\n        return array\n    }\n\n    print(): string {\n        let string = \"\"\n        for (let i = 0; i < this.collection.length; ++i) {\n            string += `${this.collection[i].name} (${this.collection[i].year}): ${this.collection[i].partNumber} partes de ${this.collection[i].partLength}m\\n`\n        }\n        return string\n    }\n}"
+      ]
+    },
+    "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
+    "hash": "3b70d789a49585be0131e641b1b33b8542538dd6",
+    "contentHash": "5768fc5d5ffebba4be81ebc7a23311eb7f0253f7857efcb8ab48c78e8f05b2b0"
+  },
+  "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-1/BasicStreamableCollection.ts": {
+    "path": "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-1/BasicStreamableCollection.ts",
+    "statementMap": {
+      "0": {
+        "start": { "line": 2, "column": 0 },
+        "end": { "line": 2, "column": 62 }
+      },
+      "1": {
+        "start": { "line": 3, "column": 0 },
+        "end": { "line": 3, "column": 43 }
+      },
+      "2": {
+        "start": { "line": 14, "column": 8 },
+        "end": { "line": 14, "column": 37 }
+      },
+      "3": {
+        "start": { "line": 22, "column": 8 },
+        "end": { "line": 24, "column": 9 }
+      },
+      "4": {
+        "start": { "line": 23, "column": 12 },
+        "end": { "line": 23, "column": 29 }
+      },
+      "5": {
+        "start": { "line": 25, "column": 8 },
+        "end": { "line": 25, "column": 38 }
+      },
+      "6": {
+        "start": { "line": 32, "column": 8 },
+        "end": { "line": 32, "column": 35 }
+      },
+      "7": {
+        "start": { "line": 40, "column": 8 },
+        "end": { "line": 42, "column": 9 }
+      },
+      "8": {
+        "start": { "line": 41, "column": 12 },
+        "end": { "line": 41, "column": 29 }
+      },
+      "9": {
+        "start": { "line": 43, "column": 8 },
+        "end": { "line": 43, "column": 51 }
+      },
+      "10": {
+        "start": { "line": 50, "column": 8 },
+        "end": { "line": 50, "column": 38 }
+      },
+      "11": {
+        "start": { "line": 53, "column": 0 },
+        "end": { "line": 53, "column": 62 }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "(anonymous_0)",
+        "decl": {
+          "start": { "line": 13, "column": 4 },
+          "end": { "line": 13, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 13, "column": 28 },
+          "end": { "line": 15, "column": 5 }
+        },
+        "line": 13
+      },
+      "1": {
+        "name": "(anonymous_1)",
+        "decl": {
+          "start": { "line": 21, "column": 4 },
+          "end": { "line": 21, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 21, "column": 26 },
+          "end": { "line": 26, "column": 5 }
+        },
+        "line": 21
+      },
+      "2": {
+        "name": "(anonymous_2)",
+        "decl": {
+          "start": { "line": 31, "column": 4 },
+          "end": { "line": 31, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 31, "column": 18 },
+          "end": { "line": 33, "column": 5 }
+        },
+        "line": 31
+      },
+      "3": {
+        "name": "(anonymous_3)",
+        "decl": {
+          "start": { "line": 39, "column": 4 },
+          "end": { "line": 39, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 39, "column": 22 },
+          "end": { "line": 44, "column": 5 }
+        },
+        "line": 39
+      },
+      "4": {
+        "name": "(anonymous_4)",
+        "decl": {
+          "start": { "line": 49, "column": 4 },
+          "end": { "line": 49, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 49, "column": 23 },
+          "end": { "line": 51, "column": 5 }
+        },
+        "line": 49
+      }
+    },
+    "branchMap": {
+      "0": {
+        "loc": {
+          "start": { "line": 22, "column": 8 },
+          "end": { "line": 24, "column": 9 }
+        },
+        "type": "if",
+        "locations": [
+          {
+            "start": { "line": 22, "column": 8 },
+            "end": { "line": 24, "column": 9 }
+          },
+          {
+            "start": { "line": 22, "column": 8 },
+            "end": { "line": 24, "column": 9 }
+          }
+        ],
+        "line": 22
+      },
+      "1": {
+        "loc": {
+          "start": { "line": 22, "column": 12 },
+          "end": { "line": 22, "column": 56 }
+        },
+        "type": "binary-expr",
+        "locations": [
+          {
+            "start": { "line": 22, "column": 12 },
+            "end": { "line": 22, "column": 21 }
+          },
+          {
+            "start": { "line": 22, "column": 25 },
+            "end": { "line": 22, "column": 56 }
+          }
+        ],
+        "line": 22
+      },
+      "2": {
+        "loc": {
+          "start": { "line": 40, "column": 8 },
+          "end": { "line": 42, "column": 9 }
+        },
+        "type": "if",
+        "locations": [
+          {
+            "start": { "line": 40, "column": 8 },
+            "end": { "line": 42, "column": 9 }
+          },
+          {
+            "start": { "line": 40, "column": 8 },
+            "end": { "line": 42, "column": 9 }
+          }
+        ],
+        "line": 40
+      },
+      "3": {
+        "loc": {
+          "start": { "line": 40, "column": 12 },
+          "end": { "line": 40, "column": 56 }
+        },
+        "type": "binary-expr",
+        "locations": [
+          {
+            "start": { "line": 40, "column": 12 },
+            "end": { "line": 40, "column": 21 }
+          },
+          {
+            "start": { "line": 40, "column": 25 },
+            "end": { "line": 40, "column": 56 }
+          }
+        ],
+        "line": 40
+      }
+    },
+    "s": {
+      "0": 1,
+      "1": 1,
+      "2": 6,
+      "3": 6,
+      "4": 3,
+      "5": 3,
+      "6": 3,
+      "7": 6,
+      "8": 3,
+      "9": 3,
+      "10": 1,
+      "11": 1
+    },
+    "f": { "0": 6, "1": 6, "2": 3, "3": 6, "4": 1 },
+    "b": { "0": [3, 3], "1": [6, 3], "2": [3, 3], "3": [6, 6] },
+    "inputSourceMap": {
+      "version": 3,
+      "file": "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-1/BasicStreamableCollection.ts",
+      "sources": [
+        "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-1/BasicStreamableCollection.ts"
+      ],
+      "names": [],
+      "mappings": ";;;AAEA;;GAEG;AACH,MAAsB,yBAAyB;IAKxB;IAJnB;;;OAGG;IACH,YAAmB,UAAe;QAAf,eAAU,GAAV,UAAU,CAAK;IAClC,CAAC;IAED;;;;OAIG;IACH,cAAc,CAAC,KAAa;QACxB,IAAI,KAAK,GAAG,CAAC,IAAI,KAAK,IAAI,IAAI,CAAC,UAAU,CAAC,MAAM,EAAE;YAC9C,OAAO,SAAS,CAAA;SACnB;QACD,OAAO,IAAI,CAAC,UAAU,CAAC,KAAK,CAAC,CAAA;IACjC,CAAC;IAED;;;OAGG;IACH,OAAO,CAAC,IAAO;QACX,IAAI,CAAC,UAAU,CAAC,IAAI,CAAC,IAAI,CAAC,CAAA;IAC9B,CAAC;IAED;;;;OAIG;IACH,UAAU,CAAC,KAAa;QACpB,IAAI,KAAK,GAAG,CAAC,IAAI,KAAK,IAAI,IAAI,CAAC,UAAU,CAAC,MAAM,EAAE;YAC9C,OAAO,SAAS,CAAA;SACnB;QACD,OAAO,IAAI,CAAC,UAAU,CAAC,MAAM,CAAC,KAAK,EAAE,CAAC,CAAC,CAAC,CAAC,CAAC,CAAA;IAC9C,CAAC;IAED;;;OAGG;IACH,gBAAgB;QACZ,OAAO,IAAI,CAAC,UAAU,CAAC,MAAM,CAAA;IACjC,CAAC;CAKJ;AAnDD,8DAmDC",
+      "sourcesContent": [
+        "import { Printable } from \"./Printable\";\nimport { Streamable } from \"./Streamable\";\n/**\n * Clase abstracta de una colección de emisiones\n */\nexport abstract class BasicStreamableCollection<T> implements Streamable<T>, Printable<T>{\n    /**\n     * Constructor de la clase abstracta BasicStreamableCollection\n     * @param collection Colección de emisiones\n     */\n    constructor(public collection: T[]) {\n    }\n\n    /**\n     * Método que permite obtener un item de la colección de emisiones a partir de su índice\n     * @param index Posición del item\n     * @returns El item buscado\n     */\n    getItemByIndex(index: number): T {\n        if (index < 0 || index >= this.collection.length) {\n            return undefined\n        }\n        return this.collection[index]\n    }\n\n    /**\n     * Función que añade un item a la colección de emisiones\n     * @param item Item a añadir\n     */\n    addItem(item: T): void {\n        this.collection.push(item)\n    }\n\n    /**\n     * Función que elimina un item de la colección de emisiones\n     * @param index Posición del item a eliminar\n     * @returns El item eliminado\n     */\n    removeItem(index: number): T {\n        if (index < 0 || index >= this.collection.length) {\n            return undefined\n        }\n        return this.collection.splice(index, 1)[0]\n    }\n\n    /**\n     * Función que devuelve el tamaño de la colección de emisiones\n     * @returns El tamaño de la colección de emisiones\n     */\n    getNumberOfItems(): number {\n        return this.collection.length\n    }\n\n    abstract getItemByName(name: string): T[];\n    abstract getItemByYear(year: number): T[];\n    abstract print(): string;\n}"
+      ]
+    },
+    "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
+    "hash": "46f777de1b39557d4b0db5f4a07b6fd314eebfcc",
+    "contentHash": "01e75f0f5270a369d289f34ac1e33fab4abc27562175122d27916679e39def22"
+  },
+  "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-1/MoviesStreamableCollection.ts": {
+    "path": "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-1/MoviesStreamableCollection.ts",
+    "statementMap": {
+      "0": {
+        "start": { "line": 2, "column": 0 },
+        "end": { "line": 2, "column": 62 }
+      },
+      "1": {
+        "start": { "line": 3, "column": 0 },
+        "end": { "line": 3, "column": 44 }
+      },
+      "2": {
+        "start": { "line": 4, "column": 36 },
+        "end": { "line": 4, "column": 74 }
+      },
+      "3": {
+        "start": { "line": 7, "column": 8 },
+        "end": { "line": 7, "column": 26 }
+      },
+      "4": {
+        "start": { "line": 10, "column": 22 },
+        "end": { "line": 10, "column": 24 }
+      },
+      "5": {
+        "start": { "line": 11, "column": 8 },
+        "end": { "line": 17, "column": 9 }
+      },
+      "6": {
+        "start": { "line": 11, "column": 21 },
+        "end": { "line": 11, "column": 22 }
+      },
+      "7": {
+        "start": { "line": 12, "column": 12 },
+        "end": { "line": 16, "column": 13 }
+      },
+      "8": {
+        "start": { "line": 15, "column": 16 },
+        "end": { "line": 15, "column": 47 }
+      },
+      "9": {
+        "start": { "line": 18, "column": 8 },
+        "end": { "line": 18, "column": 21 }
+      },
+      "10": {
+        "start": { "line": 21, "column": 22 },
+        "end": { "line": 21, "column": 24 }
+      },
+      "11": {
+        "start": { "line": 22, "column": 8 },
+        "end": { "line": 26, "column": 9 }
+      },
+      "12": {
+        "start": { "line": 22, "column": 21 },
+        "end": { "line": 22, "column": 22 }
+      },
+      "13": {
+        "start": { "line": 23, "column": 12 },
+        "end": { "line": 25, "column": 13 }
+      },
+      "14": {
+        "start": { "line": 24, "column": 16 },
+        "end": { "line": 24, "column": 47 }
+      },
+      "15": {
+        "start": { "line": 27, "column": 8 },
+        "end": { "line": 27, "column": 21 }
+      },
+      "16": {
+        "start": { "line": 30, "column": 21 },
+        "end": { "line": 30, "column": 23 }
+      },
+      "17": {
+        "start": { "line": 31, "column": 8 },
+        "end": { "line": 33, "column": 9 }
+      },
+      "18": {
+        "start": { "line": 31, "column": 21 },
+        "end": { "line": 31, "column": 22 }
+      },
+      "19": {
+        "start": { "line": 32, "column": 12 },
+        "end": { "line": 32, "column": 143 }
+      },
+      "20": {
+        "start": { "line": 34, "column": 8 },
+        "end": { "line": 34, "column": 22 }
+      },
+      "21": {
+        "start": { "line": 37, "column": 0 },
+        "end": { "line": 37, "column": 64 }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "(anonymous_0)",
+        "decl": {
+          "start": { "line": 6, "column": 4 },
+          "end": { "line": 6, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 6, "column": 28 },
+          "end": { "line": 8, "column": 5 }
+        },
+        "line": 6
+      },
+      "1": {
+        "name": "(anonymous_1)",
+        "decl": {
+          "start": { "line": 9, "column": 4 },
+          "end": { "line": 9, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 9, "column": 24 },
+          "end": { "line": 19, "column": 5 }
+        },
+        "line": 9
+      },
+      "2": {
+        "name": "(anonymous_2)",
+        "decl": {
+          "start": { "line": 20, "column": 4 },
+          "end": { "line": 20, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 20, "column": 24 },
+          "end": { "line": 28, "column": 5 }
+        },
+        "line": 20
+      },
+      "3": {
+        "name": "(anonymous_3)",
+        "decl": {
+          "start": { "line": 29, "column": 4 },
+          "end": { "line": 29, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 29, "column": 12 },
+          "end": { "line": 35, "column": 5 }
+        },
+        "line": 29
+      }
+    },
+    "branchMap": {
+      "0": {
+        "loc": {
+          "start": { "line": 12, "column": 12 },
+          "end": { "line": 16, "column": 13 }
+        },
+        "type": "if",
+        "locations": [
+          {
+            "start": { "line": 12, "column": 12 },
+            "end": { "line": 16, "column": 13 }
+          },
+          {
+            "start": { "line": 12, "column": 12 },
+            "end": { "line": 16, "column": 13 }
+          }
+        ],
+        "line": 12
+      },
+      "1": {
+        "loc": {
+          "start": { "line": 23, "column": 12 },
+          "end": { "line": 25, "column": 13 }
+        },
+        "type": "if",
+        "locations": [
+          {
+            "start": { "line": 23, "column": 12 },
+            "end": { "line": 25, "column": 13 }
+          },
+          {
+            "start": { "line": 23, "column": 12 },
+            "end": { "line": 25, "column": 13 }
+          }
+        ],
+        "line": 23
+      }
+    },
+    "s": {
+      "0": 1,
+      "1": 1,
+      "2": 1,
+      "3": 2,
+      "4": 2,
+      "5": 2,
+      "6": 2,
+      "7": 2,
+      "8": 1,
+      "9": 2,
+      "10": 2,
+      "11": 2,
+      "12": 2,
+      "13": 2,
+      "14": 1,
+      "15": 2,
+      "16": 1,
+      "17": 1,
+      "18": 1,
+      "19": 1,
+      "20": 1,
+      "21": 1
+    },
+    "f": { "0": 2, "1": 2, "2": 2, "3": 1 },
+    "b": { "0": [1, 1], "1": [1, 1] },
+    "inputSourceMap": {
+      "version": 3,
+      "file": "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-1/MoviesStreamableCollection.ts",
+      "sources": [
+        "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-1/MoviesStreamableCollection.ts"
+      ],
+      "names": [],
+      "mappings": ";;;AAAA,2EAAwE;AAGxE,MAAa,0BAA2B,SAAQ,qDAAmC;IAE/E,YAAY,UAAsB;QAC9B,KAAK,CAAC,UAAU,CAAC,CAAA;IACrB,CAAC;IAED,aAAa,CAAC,IAAY;QACtB,MAAM,KAAK,GAAe,EAAE,CAAA;QAC5B,KAAK,IAAI,CAAC,GAAG,CAAC,EAAE,CAAC,GAAG,IAAI,CAAC,UAAU,CAAC,MAAM,EAAE,EAAE,CAAC,EAAE;YAC7C,IACI,IAAI,CAAC,UAAU,CAAC,CAAC,CAAC,CAAC,IAAI;iBACpB,WAAW,EAAE;iBACb,QAAQ,CAAC,IAAI,CAAC,WAAW,EAAE,CAAC,KAAK,IAAI,EACxC;gBACA,KAAK,CAAC,IAAI,CAAC,IAAI,CAAC,UAAU,CAAC,CAAC,CAAC,CAAC,CAAC;aAChC;SACN;QACD,OAAO,KAAK,CAAA;IAChB,CAAC;IAED,aAAa,CAAC,IAAY;QACtB,MAAM,KAAK,GAAe,EAAE,CAAA;QAC5B,KAAK,IAAI,CAAC,GAAG,CAAC,EAAE,CAAC,GAAG,IAAI,CAAC,UAAU,CAAC,MAAM,EAAE,EAAE,CAAC,EAAE;YAC7C,IAAK,IAAI,CAAC,UAAU,CAAC,CAAC,CAAC,CAAC,IAAI,KAAK,IAAI,EAAE;gBACnC,KAAK,CAAC,IAAI,CAAC,IAAI,CAAC,UAAU,CAAC,CAAC,CAAC,CAAC,CAAC;aAClC;SACJ;QACD,OAAO,KAAK,CAAA;IAChB,CAAC;IAED,KAAK;QACD,IAAI,MAAM,GAAG,EAAE,CAAA;QACf,KAAK,IAAI,CAAC,GAAG,CAAC,EAAE,CAAC,GAAG,IAAI,CAAC,UAAU,CAAC,MAAM,EAAE,EAAE,CAAC,EAAE;YAC7C,MAAM,IAAI,GAAG,IAAI,CAAC,UAAU,CAAC,CAAC,CAAC,CAAC,IAAI,KAAK,IAAI,CAAC,UAAU,CAAC,CAAC,CAAC,CAAC,MAAM,MAAM,IAAI,CAAC,UAAU,CAAC,CAAC,CAAC,CAAC,IAAI,KAAK,IAAI,CAAC,UAAU,CAAC,CAAC,CAAC,CAAC,MAAM,KAAK,CAAA;SACrI;QACD,OAAO,MAAM,CAAA;IACjB,CAAC;CACJ;AArCD,gEAqCC",
+      "sourcesContent": [
+        "import { BasicStreamableCollection } from \"./BasicStreamableCollection\";\nimport { Pelicula } from \"./Pelicula\";\n\nexport class MoviesStreamableCollection extends BasicStreamableCollection<Pelicula> {\n\n    constructor(collection: Pelicula[]) {\n        super(collection)\n    }\n\n    getItemByName(name: string): Pelicula[] {\n        const array: Pelicula[] = []\n        for (let i = 0; i < this.collection.length; ++i) {\n            if (\n                this.collection[i].name\n                  .toLowerCase()\n                  .includes(name.toLowerCase()) === true\n              ) {\n                array.push(this.collection[i]);\n              }\n        }\n        return array\n    }\n\n    getItemByYear(year: number): Pelicula[] {\n        const array: Pelicula[] = []\n        for (let i = 0; i < this.collection.length; ++i) {\n            if ( this.collection[i].year === year) {\n                array.push(this.collection[i]);\n            }\n        }\n        return array\n    }\n\n    print(): string {\n        let string = \"\"\n        for (let i = 0; i < this.collection.length; ++i) {\n            string += `${this.collection[i].name} (${this.collection[i].genres}): ${this.collection[i].year}, ${this.collection[i].length}m\\n`\n        }\n        return string\n    }\n}"
+      ]
+    },
+    "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
+    "hash": "2cc78130d4a5f2f44b57378b3465180964b962ee",
+    "contentHash": "b21c9c813dbbee7abdf52c4bfc7661ff10e5a02b068cd7523e4439833347d3ae"
+  },
+  "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-1/Pelicula.ts": {
+    "path": "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-1/Pelicula.ts",
+    "statementMap": {
+      "0": {
+        "start": { "line": 2, "column": 0 },
+        "end": { "line": 2, "column": 62 }
+      },
+      "1": {
+        "start": { "line": 3, "column": 0 },
+        "end": { "line": 3, "column": 26 }
+      },
+      "2": {
+        "start": { "line": 20, "column": 8 },
+        "end": { "line": 20, "column": 27 }
+      },
+      "3": {
+        "start": { "line": 21, "column": 8 },
+        "end": { "line": 21, "column": 27 }
+      },
+      "4": {
+        "start": { "line": 22, "column": 8 },
+        "end": { "line": 22, "column": 31 }
+      },
+      "5": {
+        "start": { "line": 23, "column": 8 },
+        "end": { "line": 23, "column": 31 }
+      },
+      "6": {
+        "start": { "line": 29, "column": 8 },
+        "end": { "line": 29, "column": 26 }
+      },
+      "7": {
+        "start": { "line": 35, "column": 8 },
+        "end": { "line": 35, "column": 26 }
+      },
+      "8": {
+        "start": { "line": 41, "column": 8 },
+        "end": { "line": 41, "column": 26 }
+      },
+      "9": {
+        "start": { "line": 47, "column": 8 },
+        "end": { "line": 47, "column": 26 }
+      },
+      "10": {
+        "start": { "line": 53, "column": 8 },
+        "end": { "line": 53, "column": 28 }
+      },
+      "11": {
+        "start": { "line": 59, "column": 8 },
+        "end": { "line": 59, "column": 30 }
+      },
+      "12": {
+        "start": { "line": 65, "column": 8 },
+        "end": { "line": 65, "column": 28 }
+      },
+      "13": {
+        "start": { "line": 71, "column": 8 },
+        "end": { "line": 71, "column": 30 }
+      },
+      "14": {
+        "start": { "line": 74, "column": 0 },
+        "end": { "line": 74, "column": 28 }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "(anonymous_0)",
+        "decl": {
+          "start": { "line": 19, "column": 4 },
+          "end": { "line": 19, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 19, "column": 48 },
+          "end": { "line": 24, "column": 5 }
+        },
+        "line": 19
+      },
+      "1": {
+        "name": "(anonymous_1)",
+        "decl": {
+          "start": { "line": 28, "column": 4 },
+          "end": { "line": 28, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 28, "column": 15 },
+          "end": { "line": 30, "column": 5 }
+        },
+        "line": 28
+      },
+      "2": {
+        "name": "(anonymous_2)",
+        "decl": {
+          "start": { "line": 34, "column": 4 },
+          "end": { "line": 34, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 34, "column": 19 },
+          "end": { "line": 36, "column": 5 }
+        },
+        "line": 34
+      },
+      "3": {
+        "name": "(anonymous_3)",
+        "decl": {
+          "start": { "line": 40, "column": 4 },
+          "end": { "line": 40, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 40, "column": 15 },
+          "end": { "line": 42, "column": 5 }
+        },
+        "line": 40
+      },
+      "4": {
+        "name": "(anonymous_4)",
+        "decl": {
+          "start": { "line": 46, "column": 4 },
+          "end": { "line": 46, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 46, "column": 19 },
+          "end": { "line": 48, "column": 5 }
+        },
+        "line": 46
+      },
+      "5": {
+        "name": "(anonymous_5)",
+        "decl": {
+          "start": { "line": 52, "column": 4 },
+          "end": { "line": 52, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 52, "column": 17 },
+          "end": { "line": 54, "column": 5 }
+        },
+        "line": 52
+      },
+      "6": {
+        "name": "(anonymous_6)",
+        "decl": {
+          "start": { "line": 58, "column": 4 },
+          "end": { "line": 58, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 58, "column": 23 },
+          "end": { "line": 60, "column": 5 }
+        },
+        "line": 58
+      },
+      "7": {
+        "name": "(anonymous_7)",
+        "decl": {
+          "start": { "line": 64, "column": 4 },
+          "end": { "line": 64, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 64, "column": 17 },
+          "end": { "line": 66, "column": 5 }
+        },
+        "line": 64
+      },
+      "8": {
+        "name": "(anonymous_8)",
+        "decl": {
+          "start": { "line": 70, "column": 4 },
+          "end": { "line": 70, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 70, "column": 23 },
+          "end": { "line": 72, "column": 5 }
+        },
+        "line": 70
+      }
+    },
+    "branchMap": {},
+    "s": {
+      "0": 1,
+      "1": 1,
+      "2": 2,
+      "3": 2,
+      "4": 2,
+      "5": 2,
+      "6": 4,
+      "7": 1,
+      "8": 4,
+      "9": 1,
+      "10": 2,
+      "11": 1,
+      "12": 2,
+      "13": 1,
+      "14": 1
+    },
+    "f": {
+      "0": 2,
+      "1": 4,
+      "2": 1,
+      "3": 4,
+      "4": 1,
+      "5": 2,
+      "6": 1,
+      "7": 2,
+      "8": 1
+    },
+    "b": {},
+    "inputSourceMap": {
+      "version": 3,
+      "file": "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-1/Pelicula.ts",
+      "sources": [
+        "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-1/Pelicula.ts"
+      ],
+      "names": [],
+      "mappings": ";;;AAAA;;GAEG;AACH,MAAa,QAAQ;IAQI;IAAuB;IAAuB;IAA2B;IAP9F;;;;;;OAMG;IACH,YAAqB,KAAa,EAAU,KAAa,EAAU,OAAiB,EAAU,OAAe;QAAxF,UAAK,GAAL,KAAK,CAAQ;QAAU,UAAK,GAAL,KAAK,CAAQ;QAAU,YAAO,GAAP,OAAO,CAAU;QAAU,YAAO,GAAP,OAAO,CAAQ;IAC7G,CAAC;IAED;;OAEG;IACH,IAAI,IAAI;QACJ,OAAO,IAAI,CAAC,KAAK,CAAC;IACtB,CAAC;IAED;;OAEG;IACH,IAAI,IAAI,CAAC,IAAI;QACT,IAAI,CAAC,KAAK,GAAG,IAAI,CAAC;IACtB,CAAC;IAED;;OAEG;IACH,IAAI,IAAI;QACJ,OAAO,IAAI,CAAC,KAAK,CAAC;IACtB,CAAC;IAED;;OAEG;IACH,IAAI,IAAI,CAAC,IAAI;QACT,IAAI,CAAC,KAAK,GAAG,IAAI,CAAC;IACtB,CAAC;IAED;;OAEG;IACH,IAAI,MAAM;QACN,OAAO,IAAI,CAAC,OAAO,CAAC;IACxB,CAAC;IAED;;OAEG;IACH,IAAI,MAAM,CAAC,MAAM;QACb,IAAI,CAAC,OAAO,GAAG,MAAM,CAAC;IAC1B,CAAC;IAGD;;OAEG;IACH,IAAI,MAAM;QACN,OAAO,IAAI,CAAC,OAAO,CAAC;IACxB,CAAC;IAED;;OAEG;IACH,IAAI,MAAM,CAAC,MAAM;QACb,IAAI,CAAC,OAAO,GAAG,MAAM,CAAC;IAC1B,CAAC;CACJ;AAnED,4BAmEC",
+      "sourcesContent": [
+        "/**\n * Clase que representa una pelicula\n */\nexport class Pelicula {\n    /**\n     * Constructor de la clase Pelicula\n     * @param _name Nombre de la pelicula\n     * @param _year Año de salida de la pelicula\n     * @param _genres Géneros de la pelicula\n     * @param _length Duración de la película en minutos\n     */\n    constructor (private _name: string ,private _year: number, private _genres: string[], private _length: number) {\n    }\n\n    /**\n     * Getter del nombre\n     */\n    get name() {\n        return this._name;\n    }\n\n    /**\n     * Setter del nombre\n     */\n    set name(name) {\n        this._name = name;\n    }\n\n    /**\n     * Getter del año\n     */\n    get year() {\n        return this._year;\n    }\n\n    /**\n     * Setter del año\n     */\n    set year(year) {\n        this._year = year;\n    }\n\n    /**\n     * Getter de la lista de generos\n     */\n    get genres() {\n        return this._genres;\n    }\n\n    /**\n     * Setter de la lista de generos\n     */\n    set genres(genres) {\n        this._genres = genres;\n    }\n\n\n    /**\n     * Getter de la duración de la película\n     */\n    get length() {\n        return this._length;\n    }\n\n    /**\n     * Setter de la duración de la película\n     */\n    set length(length) {\n        this._length = length;\n    }\n}"
+      ]
+    },
+    "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
+    "hash": "684eef53e853ceaa39cedee5239beb44e03f695f",
+    "contentHash": "831989add90c84ebe8307e148ed99c79e74b4d327d60d51c59f574ef5747895f"
+  },
+  "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-1/Serie.ts": {
+    "path": "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-1/Serie.ts",
+    "statementMap": {
+      "0": {
+        "start": { "line": 2, "column": 0 },
+        "end": { "line": 2, "column": 62 }
+      },
+      "1": {
+        "start": { "line": 3, "column": 0 },
+        "end": { "line": 3, "column": 23 }
+      },
+      "2": {
+        "start": { "line": 22, "column": 8 },
+        "end": { "line": 22, "column": 27 }
+      },
+      "3": {
+        "start": { "line": 23, "column": 8 },
+        "end": { "line": 23, "column": 27 }
+      },
+      "4": {
+        "start": { "line": 24, "column": 8 },
+        "end": { "line": 24, "column": 31 }
+      },
+      "5": {
+        "start": { "line": 25, "column": 8 },
+        "end": { "line": 25, "column": 45 }
+      },
+      "6": {
+        "start": { "line": 26, "column": 8 },
+        "end": { "line": 26, "column": 45 }
+      },
+      "7": {
+        "start": { "line": 32, "column": 8 },
+        "end": { "line": 32, "column": 26 }
+      },
+      "8": {
+        "start": { "line": 38, "column": 8 },
+        "end": { "line": 38, "column": 26 }
+      },
+      "9": {
+        "start": { "line": 44, "column": 8 },
+        "end": { "line": 44, "column": 26 }
+      },
+      "10": {
+        "start": { "line": 50, "column": 8 },
+        "end": { "line": 50, "column": 26 }
+      },
+      "11": {
+        "start": { "line": 56, "column": 8 },
+        "end": { "line": 56, "column": 28 }
+      },
+      "12": {
+        "start": { "line": 62, "column": 8 },
+        "end": { "line": 62, "column": 30 }
+      },
+      "13": {
+        "start": { "line": 68, "column": 8 },
+        "end": { "line": 68, "column": 35 }
+      },
+      "14": {
+        "start": { "line": 74, "column": 8 },
+        "end": { "line": 74, "column": 44 }
+      },
+      "15": {
+        "start": { "line": 80, "column": 8 },
+        "end": { "line": 80, "column": 35 }
+      },
+      "16": {
+        "start": { "line": 86, "column": 8 },
+        "end": { "line": 86, "column": 44 }
+      },
+      "17": {
+        "start": { "line": 89, "column": 0 },
+        "end": { "line": 89, "column": 22 }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "(anonymous_0)",
+        "decl": {
+          "start": { "line": 21, "column": 4 },
+          "end": { "line": 21, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 21, "column": 71 },
+          "end": { "line": 27, "column": 5 }
+        },
+        "line": 21
+      },
+      "1": {
+        "name": "(anonymous_1)",
+        "decl": {
+          "start": { "line": 31, "column": 4 },
+          "end": { "line": 31, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 31, "column": 15 },
+          "end": { "line": 33, "column": 5 }
+        },
+        "line": 31
+      },
+      "2": {
+        "name": "(anonymous_2)",
+        "decl": {
+          "start": { "line": 37, "column": 4 },
+          "end": { "line": 37, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 37, "column": 19 },
+          "end": { "line": 39, "column": 5 }
+        },
+        "line": 37
+      },
+      "3": {
+        "name": "(anonymous_3)",
+        "decl": {
+          "start": { "line": 43, "column": 4 },
+          "end": { "line": 43, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 43, "column": 15 },
+          "end": { "line": 45, "column": 5 }
+        },
+        "line": 43
+      },
+      "4": {
+        "name": "(anonymous_4)",
+        "decl": {
+          "start": { "line": 49, "column": 4 },
+          "end": { "line": 49, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 49, "column": 19 },
+          "end": { "line": 51, "column": 5 }
+        },
+        "line": 49
+      },
+      "5": {
+        "name": "(anonymous_5)",
+        "decl": {
+          "start": { "line": 55, "column": 4 },
+          "end": { "line": 55, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 55, "column": 17 },
+          "end": { "line": 57, "column": 5 }
+        },
+        "line": 55
+      },
+      "6": {
+        "name": "(anonymous_6)",
+        "decl": {
+          "start": { "line": 61, "column": 4 },
+          "end": { "line": 61, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 61, "column": 23 },
+          "end": { "line": 63, "column": 5 }
+        },
+        "line": 61
+      },
+      "7": {
+        "name": "(anonymous_7)",
+        "decl": {
+          "start": { "line": 67, "column": 4 },
+          "end": { "line": 67, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 67, "column": 24 },
+          "end": { "line": 69, "column": 5 }
+        },
+        "line": 67
+      },
+      "8": {
+        "name": "(anonymous_8)",
+        "decl": {
+          "start": { "line": 73, "column": 4 },
+          "end": { "line": 73, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 73, "column": 37 },
+          "end": { "line": 75, "column": 5 }
+        },
+        "line": 73
+      },
+      "9": {
+        "name": "(anonymous_9)",
+        "decl": {
+          "start": { "line": 79, "column": 4 },
+          "end": { "line": 79, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 79, "column": 24 },
+          "end": { "line": 81, "column": 5 }
+        },
+        "line": 79
+      },
+      "10": {
+        "name": "(anonymous_10)",
+        "decl": {
+          "start": { "line": 85, "column": 4 },
+          "end": { "line": 85, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 85, "column": 37 },
+          "end": { "line": 87, "column": 5 }
+        },
+        "line": 85
+      }
+    },
+    "branchMap": {},
+    "s": {
+      "0": 1,
+      "1": 1,
+      "2": 2,
+      "3": 2,
+      "4": 2,
+      "5": 2,
+      "6": 2,
+      "7": 4,
+      "8": 1,
+      "9": 4,
+      "10": 1,
+      "11": 2,
+      "12": 1,
+      "13": 2,
+      "14": 1,
+      "15": 2,
+      "16": 1,
+      "17": 1
+    },
+    "f": {
+      "0": 2,
+      "1": 4,
+      "2": 1,
+      "3": 4,
+      "4": 1,
+      "5": 2,
+      "6": 1,
+      "7": 2,
+      "8": 1,
+      "9": 2,
+      "10": 1
+    },
+    "b": {},
+    "inputSourceMap": {
+      "version": 3,
+      "file": "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-1/Serie.ts",
+      "sources": [
+        "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-1/Serie.ts"
+      ],
+      "names": [],
+      "mappings": ";;;AAAA;;GAEG;AACH,MAAa,KAAK;IASO;IAAuB;IAAuB;IAA2B;IAAgC;IAR9H;;;;;;;OAOG;IACH,YAAqB,KAAa,EAAU,KAAa,EAAU,OAAiB,EAAU,cAAsB,EAAU,cAAsB;QAA/H,UAAK,GAAL,KAAK,CAAQ;QAAU,UAAK,GAAL,KAAK,CAAQ;QAAU,YAAO,GAAP,OAAO,CAAU;QAAU,mBAAc,GAAd,cAAc,CAAQ;QAAU,mBAAc,GAAd,cAAc,CAAQ;IACpJ,CAAC;IAED;;OAEG;IACH,IAAI,IAAI;QACJ,OAAO,IAAI,CAAC,KAAK,CAAC;IACtB,CAAC;IAED;;OAEG;IACH,IAAI,IAAI,CAAC,IAAI;QACT,IAAI,CAAC,KAAK,GAAG,IAAI,CAAC;IACtB,CAAC;IAED;;OAEG;IACH,IAAI,IAAI;QACJ,OAAO,IAAI,CAAC,KAAK,CAAC;IACtB,CAAC;IAED;;OAEG;IACH,IAAI,IAAI,CAAC,IAAI;QACT,IAAI,CAAC,KAAK,GAAG,IAAI,CAAC;IACtB,CAAC;IAED;;OAEG;IACH,IAAI,MAAM;QACN,OAAO,IAAI,CAAC,OAAO,CAAC;IACxB,CAAC;IAED;;OAEG;IACH,IAAI,MAAM,CAAC,MAAM;QACb,IAAI,CAAC,OAAO,GAAG,MAAM,CAAC;IAC1B,CAAC;IAED;;OAEG;IACH,IAAI,aAAa;QACb,OAAO,IAAI,CAAC,cAAc,CAAC;IAC/B,CAAC;IAED;;OAEG;IACH,IAAI,aAAa,CAAC,aAAa;QAC3B,IAAI,CAAC,cAAc,GAAG,aAAa,CAAC;IACxC,CAAC;IAED;;OAEG;IACH,IAAI,aAAa;QACb,OAAO,IAAI,CAAC,cAAc,CAAC;IAC/B,CAAC;IAED;;OAEG;IACH,IAAI,aAAa,CAAC,aAAa;QAC3B,IAAI,CAAC,cAAc,GAAG,aAAa,CAAC;IACxC,CAAC;CACJ;AAjFD,sBAiFC",
+      "sourcesContent": [
+        "/**\n * Clase que representa una serie\n */\nexport class Serie  {\n    /**\n     * Constructor de la clase Serie\n     * @param _name Nombre de la serie\n     * @param _year Año de salida de la serie\n     * @param _genres Géneros de la serie\n     * @param _episodeNumber Número de episodios\n     * @param _episodeLength Duración media de los episodios\n     */\n    constructor (private _name: string ,private _year: number, private _genres: string[], private _episodeNumber: number, private _episodeLength: number) {\n    }\n\n    /**\n     * Getter del nombre\n     */\n    get name() {\n        return this._name;\n    }\n\n    /**\n     * Setter del nombre\n     */\n    set name(name) {\n        this._name = name;\n    }\n\n    /**\n     * Getter del año\n     */\n    get year() {\n        return this._year;\n    }\n\n    /**\n     * Setter del año\n     */\n    set year(year) {\n        this._year = year;\n    }\n\n    /**\n     * Getter de la lista de generos\n     */\n    get genres() {\n        return this._genres;\n    }\n\n    /**\n     * Setter de la lista de generos\n     */\n    set genres(genres) {\n        this._genres = genres;\n    }\n\n    /**\n     * Getter del número de episodios\n     */\n    get episodeNumber() {\n        return this._episodeNumber;\n    }\n\n    /**\n     * Setter del número de episodios\n     */\n    set episodeNumber(episodeNumber) {\n        this._episodeNumber = episodeNumber;\n    }\n\n    /**\n     * Getter de la duración de cada episodio\n     */\n    get episodeLength() {\n        return this._episodeLength;\n    }\n\n    /**\n     * Setter de la duración de cada episodio\n     */\n    set episodeLength(episodeLength) {\n        this._episodeLength = episodeLength;\n    }\n}"
+      ]
+    },
+    "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
+    "hash": "5af07c98cf05b96e4eb30c67488a637c2e802bb6",
+    "contentHash": "154b81f958170c2116201c7e2753a0a2ba4515f03952931197410b43a23f4e0a"
+  },
+  "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-1/SeriesStreamableCollection.ts": {
+    "path": "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-1/SeriesStreamableCollection.ts",
+    "statementMap": {
+      "0": {
+        "start": { "line": 2, "column": 0 },
+        "end": { "line": 2, "column": 62 }
+      },
+      "1": {
+        "start": { "line": 3, "column": 0 },
+        "end": { "line": 3, "column": 44 }
+      },
+      "2": {
+        "start": { "line": 4, "column": 36 },
+        "end": { "line": 4, "column": 74 }
+      },
+      "3": {
+        "start": { "line": 7, "column": 8 },
+        "end": { "line": 7, "column": 26 }
+      },
+      "4": {
+        "start": { "line": 10, "column": 22 },
+        "end": { "line": 10, "column": 24 }
+      },
+      "5": {
+        "start": { "line": 11, "column": 8 },
+        "end": { "line": 17, "column": 9 }
+      },
+      "6": {
+        "start": { "line": 11, "column": 21 },
+        "end": { "line": 11, "column": 22 }
+      },
+      "7": {
+        "start": { "line": 12, "column": 12 },
+        "end": { "line": 16, "column": 13 }
+      },
+      "8": {
+        "start": { "line": 15, "column": 16 },
+        "end": { "line": 15, "column": 47 }
+      },
+      "9": {
+        "start": { "line": 18, "column": 8 },
+        "end": { "line": 18, "column": 21 }
+      },
+      "10": {
+        "start": { "line": 21, "column": 22 },
+        "end": { "line": 21, "column": 24 }
+      },
+      "11": {
+        "start": { "line": 22, "column": 8 },
+        "end": { "line": 26, "column": 9 }
+      },
+      "12": {
+        "start": { "line": 22, "column": 21 },
+        "end": { "line": 22, "column": 22 }
+      },
+      "13": {
+        "start": { "line": 23, "column": 12 },
+        "end": { "line": 25, "column": 13 }
+      },
+      "14": {
+        "start": { "line": 24, "column": 16 },
+        "end": { "line": 24, "column": 47 }
+      },
+      "15": {
+        "start": { "line": 27, "column": 8 },
+        "end": { "line": 27, "column": 21 }
+      },
+      "16": {
+        "start": { "line": 30, "column": 21 },
+        "end": { "line": 30, "column": 23 }
+      },
+      "17": {
+        "start": { "line": 31, "column": 8 },
+        "end": { "line": 33, "column": 9 }
+      },
+      "18": {
+        "start": { "line": 31, "column": 21 },
+        "end": { "line": 31, "column": 22 }
+      },
+      "19": {
+        "start": { "line": 32, "column": 12 },
+        "end": { "line": 32, "column": 199 }
+      },
+      "20": {
+        "start": { "line": 34, "column": 8 },
+        "end": { "line": 34, "column": 22 }
+      },
+      "21": {
+        "start": { "line": 37, "column": 0 },
+        "end": { "line": 37, "column": 64 }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "(anonymous_0)",
+        "decl": {
+          "start": { "line": 6, "column": 4 },
+          "end": { "line": 6, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 6, "column": 28 },
+          "end": { "line": 8, "column": 5 }
+        },
+        "line": 6
+      },
+      "1": {
+        "name": "(anonymous_1)",
+        "decl": {
+          "start": { "line": 9, "column": 4 },
+          "end": { "line": 9, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 9, "column": 24 },
+          "end": { "line": 19, "column": 5 }
+        },
+        "line": 9
+      },
+      "2": {
+        "name": "(anonymous_2)",
+        "decl": {
+          "start": { "line": 20, "column": 4 },
+          "end": { "line": 20, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 20, "column": 24 },
+          "end": { "line": 28, "column": 5 }
+        },
+        "line": 20
+      },
+      "3": {
+        "name": "(anonymous_3)",
+        "decl": {
+          "start": { "line": 29, "column": 4 },
+          "end": { "line": 29, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 29, "column": 12 },
+          "end": { "line": 35, "column": 5 }
+        },
+        "line": 29
+      }
+    },
+    "branchMap": {
+      "0": {
+        "loc": {
+          "start": { "line": 12, "column": 12 },
+          "end": { "line": 16, "column": 13 }
+        },
+        "type": "if",
+        "locations": [
+          {
+            "start": { "line": 12, "column": 12 },
+            "end": { "line": 16, "column": 13 }
+          },
+          {
+            "start": { "line": 12, "column": 12 },
+            "end": { "line": 16, "column": 13 }
+          }
+        ],
+        "line": 12
+      },
+      "1": {
+        "loc": {
+          "start": { "line": 23, "column": 12 },
+          "end": { "line": 25, "column": 13 }
+        },
+        "type": "if",
+        "locations": [
+          {
+            "start": { "line": 23, "column": 12 },
+            "end": { "line": 25, "column": 13 }
+          },
+          {
+            "start": { "line": 23, "column": 12 },
+            "end": { "line": 25, "column": 13 }
+          }
+        ],
+        "line": 23
+      }
+    },
+    "s": {
+      "0": 1,
+      "1": 1,
+      "2": 1,
+      "3": 2,
+      "4": 2,
+      "5": 2,
+      "6": 2,
+      "7": 2,
+      "8": 1,
+      "9": 2,
+      "10": 2,
+      "11": 2,
+      "12": 2,
+      "13": 2,
+      "14": 1,
+      "15": 2,
+      "16": 1,
+      "17": 1,
+      "18": 1,
+      "19": 1,
+      "20": 1,
+      "21": 1
+    },
+    "f": { "0": 2, "1": 2, "2": 2, "3": 1 },
+    "b": { "0": [1, 1], "1": [1, 1] },
+    "inputSourceMap": {
+      "version": 3,
+      "file": "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-1/SeriesStreamableCollection.ts",
+      "sources": [
+        "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-1/SeriesStreamableCollection.ts"
+      ],
+      "names": [],
+      "mappings": ";;;AAAA,2EAAwE;AAGxE,MAAa,0BAA2B,SAAQ,qDAAgC;IAE5E,YAAY,UAAmB;QAC3B,KAAK,CAAC,UAAU,CAAC,CAAA;IACrB,CAAC;IAED,aAAa,CAAC,IAAY;QACtB,MAAM,KAAK,GAAY,EAAE,CAAA;QACzB,KAAK,IAAI,CAAC,GAAG,CAAC,EAAE,CAAC,GAAG,IAAI,CAAC,UAAU,CAAC,MAAM,EAAE,EAAE,CAAC,EAAE;YAC7C,IACI,IAAI,CAAC,UAAU,CAAC,CAAC,CAAC,CAAC,IAAI;iBACpB,WAAW,EAAE;iBACb,QAAQ,CAAC,IAAI,CAAC,WAAW,EAAE,CAAC,KAAK,IAAI,EACxC;gBACA,KAAK,CAAC,IAAI,CAAC,IAAI,CAAC,UAAU,CAAC,CAAC,CAAC,CAAC,CAAC;aAChC;SACN;QACD,OAAO,KAAK,CAAA;IAChB,CAAC;IAED,aAAa,CAAC,IAAY;QACtB,MAAM,KAAK,GAAY,EAAE,CAAA;QACzB,KAAK,IAAI,CAAC,GAAG,CAAC,EAAE,CAAC,GAAG,IAAI,CAAC,UAAU,CAAC,MAAM,EAAE,EAAE,CAAC,EAAE;YAC7C,IAAK,IAAI,CAAC,UAAU,CAAC,CAAC,CAAC,CAAC,IAAI,KAAK,IAAI,EAAE;gBACnC,KAAK,CAAC,IAAI,CAAC,IAAI,CAAC,UAAU,CAAC,CAAC,CAAC,CAAC,CAAC;aAClC;SACJ;QACD,OAAO,KAAK,CAAA;IAChB,CAAC;IAED,KAAK;QACD,IAAI,MAAM,GAAG,EAAE,CAAA;QACf,KAAK,IAAI,CAAC,GAAG,CAAC,EAAE,CAAC,GAAG,IAAI,CAAC,UAAU,CAAC,MAAM,EAAE,EAAE,CAAC,EAAE;YAC7C,MAAM,IAAI,GAAG,IAAI,CAAC,UAAU,CAAC,CAAC,CAAC,CAAC,IAAI,KAAK,IAAI,CAAC,UAAU,CAAC,CAAC,CAAC,CAAC,MAAM,MAAM,IAAI,CAAC,UAAU,CAAC,CAAC,CAAC,CAAC,IAAI,KAAK,IAAI,CAAC,UAAU,CAAC,CAAC,CAAC,CAAC,aAAa,iBAAiB,IAAI,CAAC,UAAU,CAAC,CAAC,CAAC,CAAC,aAAa,KAAK,CAAA;SAC7L;QACD,OAAO,MAAM,CAAA;IACjB,CAAC;CACJ;AArCD,gEAqCC",
+      "sourcesContent": [
+        "import { BasicStreamableCollection } from \"./BasicStreamableCollection\";\nimport { Serie } from \"./Serie\";\n\nexport class SeriesStreamableCollection extends BasicStreamableCollection<Serie> {\n\n    constructor(collection: Serie[]) {\n        super(collection)\n    }\n\n    getItemByName(name: string): Serie[] {\n        const array: Serie[] = []\n        for (let i = 0; i < this.collection.length; ++i) {\n            if (\n                this.collection[i].name\n                  .toLowerCase()\n                  .includes(name.toLowerCase()) === true\n              ) {\n                array.push(this.collection[i]);\n              }\n        }\n        return array\n    }\n\n    getItemByYear(year: number): Serie[] {\n        const array: Serie[] = []\n        for (let i = 0; i < this.collection.length; ++i) {\n            if ( this.collection[i].year === year) {\n                array.push(this.collection[i]);\n            }\n        }\n        return array\n    }\n\n    print(): string {\n        let string = \"\"\n        for (let i = 0; i < this.collection.length; ++i) {\n            string += `${this.collection[i].name} (${this.collection[i].genres}): ${this.collection[i].year}, ${this.collection[i].episodeNumber} episodios de ${this.collection[i].episodeLength}m\\n`\n        }\n        return string\n    }\n}"
+      ]
+    },
+    "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
+    "hash": "989c244c4bf70e86fba05f4515ec3ec998bd342a",
+    "contentHash": "c3c248fccbe1090caae7aae8623b86d9c9e2d64edd4b4a93959f48722eeb8230"
+  },
+  "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-2/Lista.ts": {
+    "path": "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-2/Lista.ts",
+    "statementMap": {
+      "0": {
+        "start": { "line": 2, "column": 0 },
+        "end": { "line": 2, "column": 62 }
+      },
+      "1": {
+        "start": { "line": 3, "column": 0 },
+        "end": { "line": 3, "column": 23 }
+      },
+      "2": {
+        "start": { "line": 14, "column": 8 },
+        "end": { "line": 14, "column": 27 }
+      },
+      "3": {
+        "start": { "line": 20, "column": 8 },
+        "end": { "line": 20, "column": 26 }
+      },
+      "4": {
+        "start": { "line": 26, "column": 8 },
+        "end": { "line": 26, "column": 26 }
+      },
+      "5": {
+        "start": { "line": 33, "column": 8 },
+        "end": { "line": 35, "column": 9 }
+      },
+      "6": {
+        "start": { "line": 33, "column": 21 },
+        "end": { "line": 33, "column": 22 }
+      },
+      "7": {
+        "start": { "line": 34, "column": 12 },
+        "end": { "line": 34, "column": 59 }
+      },
+      "8": {
+        "start": { "line": 43, "column": 24 },
+        "end": { "line": 43, "column": 37 }
+      },
+      "9": {
+        "start": { "line": 44, "column": 8 },
+        "end": { "line": 44, "column": 39 }
+      },
+      "10": {
+        "start": { "line": 45, "column": 8 },
+        "end": { "line": 49, "column": 9 }
+      },
+      "11": {
+        "start": { "line": 45, "column": 21 },
+        "end": { "line": 45, "column": 22 }
+      },
+      "12": {
+        "start": { "line": 46, "column": 12 },
+        "end": { "line": 48, "column": 13 }
+      },
+      "13": {
+        "start": { "line": 46, "column": 25 },
+        "end": { "line": 46, "column": 26 }
+      },
+      "14": {
+        "start": { "line": 47, "column": 16 },
+        "end": { "line": 47, "column": 70 }
+      },
+      "15": {
+        "start": { "line": 50, "column": 8 },
+        "end": { "line": 50, "column": 23 }
+      },
+      "16": {
+        "start": { "line": 58, "column": 24 },
+        "end": { "line": 58, "column": 37 }
+      },
+      "17": {
+        "start": { "line": 59, "column": 8 },
+        "end": { "line": 63, "column": 9 }
+      },
+      "18": {
+        "start": { "line": 59, "column": 21 },
+        "end": { "line": 59, "column": 22 }
+      },
+      "19": {
+        "start": { "line": 60, "column": 12 },
+        "end": { "line": 62, "column": 13 }
+      },
+      "20": {
+        "start": { "line": 61, "column": 16 },
+        "end": { "line": 61, "column": 66 }
+      },
+      "21": {
+        "start": { "line": 64, "column": 8 },
+        "end": { "line": 64, "column": 23 }
+      },
+      "22": {
+        "start": { "line": 71, "column": 8 },
+        "end": { "line": 71, "column": 33 }
+      },
+      "23": {
+        "start": { "line": 79, "column": 24 },
+        "end": { "line": 79, "column": 37 }
+      },
+      "24": {
+        "start": { "line": 80, "column": 8 },
+        "end": { "line": 82, "column": 9 }
+      },
+      "25": {
+        "start": { "line": 80, "column": 21 },
+        "end": { "line": 80, "column": 22 }
+      },
+      "26": {
+        "start": { "line": 81, "column": 12 },
+        "end": { "line": 81, "column": 72 }
+      },
+      "27": {
+        "start": { "line": 83, "column": 8 },
+        "end": { "line": 83, "column": 23 }
+      },
+      "28": {
+        "start": { "line": 92, "column": 8 },
+        "end": { "line": 94, "column": 9 }
+      },
+      "29": {
+        "start": { "line": 92, "column": 21 },
+        "end": { "line": 92, "column": 22 }
+      },
+      "30": {
+        "start": { "line": 93, "column": 12 },
+        "end": { "line": 93, "column": 63 }
+      },
+      "31": {
+        "start": { "line": 95, "column": 8 },
+        "end": { "line": 95, "column": 27 }
+      },
+      "32": {
+        "start": { "line": 101, "column": 22 },
+        "end": { "line": 101, "column": 37 }
+      },
+      "33": {
+        "start": { "line": 102, "column": 8 },
+        "end": { "line": 104, "column": 9 }
+      },
+      "34": {
+        "start": { "line": 102, "column": 21 },
+        "end": { "line": 102, "column": 22 }
+      },
+      "35": {
+        "start": { "line": 103, "column": 12 },
+        "end": { "line": 103, "column": 61 }
+      },
+      "36": {
+        "start": { "line": 111, "column": 8 },
+        "end": { "line": 113, "column": 9 }
+      },
+      "37": {
+        "start": { "line": 111, "column": 21 },
+        "end": { "line": 111, "column": 22 }
+      },
+      "38": {
+        "start": { "line": 112, "column": 12 },
+        "end": { "line": 112, "column": 52 }
+      },
+      "39": {
+        "start": { "line": 116, "column": 0 },
+        "end": { "line": 116, "column": 22 }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "(anonymous_0)",
+        "decl": {
+          "start": { "line": 13, "column": 4 },
+          "end": { "line": 13, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 13, "column": 23 },
+          "end": { "line": 15, "column": 5 }
+        },
+        "line": 13
+      },
+      "1": {
+        "name": "(anonymous_1)",
+        "decl": {
+          "start": { "line": 19, "column": 4 },
+          "end": { "line": 19, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 19, "column": 15 },
+          "end": { "line": 21, "column": 5 }
+        },
+        "line": 19
+      },
+      "2": {
+        "name": "(anonymous_2)",
+        "decl": {
+          "start": { "line": 25, "column": 4 },
+          "end": { "line": 25, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 25, "column": 19 },
+          "end": { "line": 27, "column": 5 }
+        },
+        "line": 25
+      },
+      "3": {
+        "name": "(anonymous_3)",
+        "decl": {
+          "start": { "line": 32, "column": 4 },
+          "end": { "line": 32, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 32, "column": 18 },
+          "end": { "line": 36, "column": 5 }
+        },
+        "line": 32
+      },
+      "4": {
+        "name": "(anonymous_4)",
+        "decl": {
+          "start": { "line": 42, "column": 4 },
+          "end": { "line": 42, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 42, "column": 23 },
+          "end": { "line": 51, "column": 5 }
+        },
+        "line": 42
+      },
+      "5": {
+        "name": "(anonymous_5)",
+        "decl": {
+          "start": { "line": 57, "column": 4 },
+          "end": { "line": 57, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 57, "column": 21 },
+          "end": { "line": 65, "column": 5 }
+        },
+        "line": 57
+      },
+      "6": {
+        "name": "(anonymous_6)",
+        "decl": {
+          "start": { "line": 70, "column": 4 },
+          "end": { "line": 70, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 70, "column": 13 },
+          "end": { "line": 72, "column": 5 }
+        },
+        "line": 70
+      },
+      "7": {
+        "name": "(anonymous_7)",
+        "decl": {
+          "start": { "line": 78, "column": 4 },
+          "end": { "line": 78, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 78, "column": 18 },
+          "end": { "line": 84, "column": 5 }
+        },
+        "line": 78
+      },
+      "8": {
+        "name": "(anonymous_8)",
+        "decl": {
+          "start": { "line": 91, "column": 4 },
+          "end": { "line": 91, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 91, "column": 34 },
+          "end": { "line": 96, "column": 5 }
+        },
+        "line": 91
+      },
+      "9": {
+        "name": "(anonymous_9)",
+        "decl": {
+          "start": { "line": 100, "column": 4 },
+          "end": { "line": 100, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 100, "column": 14 },
+          "end": { "line": 105, "column": 5 }
+        },
+        "line": 100
+      },
+      "10": {
+        "name": "(anonymous_10)",
+        "decl": {
+          "start": { "line": 110, "column": 4 },
+          "end": { "line": 110, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 110, "column": 22 },
+          "end": { "line": 114, "column": 5 }
+        },
+        "line": 110
+      }
+    },
+    "branchMap": {
+      "0": {
+        "loc": {
+          "start": { "line": 60, "column": 12 },
+          "end": { "line": 62, "column": 13 }
+        },
+        "type": "if",
+        "locations": [
+          {
+            "start": { "line": 60, "column": 12 },
+            "end": { "line": 62, "column": 13 }
+          },
+          {
+            "start": { "line": 60, "column": 12 },
+            "end": { "line": 62, "column": 13 }
+          }
+        ],
+        "line": 60
+      }
+    },
+    "s": {
+      "0": 1,
+      "1": 1,
+      "2": 46,
+      "3": 31,
+      "4": 2,
+      "5": 2,
+      "6": 2,
+      "7": 3,
+      "8": 2,
+      "9": 2,
+      "10": 2,
+      "11": 2,
+      "12": 2,
+      "13": 2,
+      "14": 3,
+      "15": 2,
+      "16": 2,
+      "17": 2,
+      "18": 2,
+      "19": 6,
+      "20": 3,
+      "21": 2,
+      "22": 2,
+      "23": 2,
+      "24": 2,
+      "25": 2,
+      "26": 6,
+      "27": 2,
+      "28": 2,
+      "29": 2,
+      "30": 6,
+      "31": 2,
+      "32": 2,
+      "33": 2,
+      "34": 2,
+      "35": 6,
+      "36": 2,
+      "37": 2,
+      "38": 6,
+      "39": 1
+    },
+    "f": {
+      "0": 46,
+      "1": 31,
+      "2": 2,
+      "3": 2,
+      "4": 2,
+      "5": 2,
+      "6": 2,
+      "7": 2,
+      "8": 2,
+      "9": 2,
+      "10": 2
+    },
+    "b": { "0": [3, 3] },
+    "inputSourceMap": {
+      "version": 3,
+      "file": "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-2/Lista.ts",
+      "sources": [
+        "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-2/Lista.ts"
+      ],
+      "names": [],
+      "mappings": ";;;AAAA;;GAEG;AACH,MAAa,KAAK;IAKM;IAJpB;;;OAGG;IACH,YAAoB,KAAU;QAAV,UAAK,GAAL,KAAK,CAAK;IAC9B,CAAC;IAED;;OAEG;IACH,IAAI,IAAI;QACJ,OAAO,IAAI,CAAC,KAAK,CAAA;IACrB,CAAC;IAED;;OAEG;IACH,IAAI,IAAI,CAAC,IAAS;QACd,IAAI,CAAC,KAAK,GAAG,IAAI,CAAA;IACrB,CAAC;IAED;;;OAGG;IACH,MAAM,CAAC,KAAe;QAClB,KAAK,IAAI,CAAC,GAAG,CAAC,EAAE,CAAC,GAAE,KAAK,CAAC,KAAK,CAAC,MAAM,EAAE,EAAE,CAAC,EAAE;YACxC,IAAI,CAAC,KAAK,CAAC,IAAI,CAAC,KAAK,CAAC,MAAM,CAAC,GAAG,KAAK,CAAC,KAAK,CAAC,CAAC,CAAC,CAAA;SACjD;IACL,CAAC;IAED;;;;OAIG;IACH,WAAW,CAAC,KAAiB;QACzB,MAAM,OAAO,GAAG,IAAI,KAAK,CAAI,EAAE,CAAC,CAAA;QAChC,OAAO,CAAC,IAAI,GAAG,CAAC,GAAG,IAAI,CAAC,KAAK,CAAC,CAAA;QAC9B,KAAK,IAAI,CAAC,GAAG,CAAC,EAAE,CAAC,GAAE,KAAK,CAAC,MAAM,EAAE,EAAE,CAAC,EAAE;YAClC,KAAK,IAAI,CAAC,GAAG,CAAC,EAAE,CAAC,GAAG,KAAK,CAAC,CAAC,CAAC,CAAC,IAAI,CAAC,MAAM,EAAE,EAAE,CAAC,EAAE;gBAC3C,OAAO,CAAC,IAAI,CAAC,OAAO,CAAC,IAAI,CAAC,MAAM,CAAC,GAAG,KAAK,CAAC,CAAC,CAAC,CAAC,KAAK,CAAC,CAAC,CAAC,CAAA;aACxD;SACJ;QACD,OAAO,OAAO,CAAA;IAClB,CAAC;IAED;;;;OAIG;IACH,MAAM,CAAC,QAA2B;QAC9B,MAAM,OAAO,GAAG,IAAI,KAAK,CAAI,EAAE,CAAC,CAAA;QAChC,KAAK,IAAI,CAAC,GAAG,CAAC,EAAE,CAAC,GAAG,IAAI,CAAC,KAAK,CAAC,MAAM,EAAE,EAAE,CAAC,EAAE;YAC1C,IAAG,QAAQ,CAAC,IAAI,CAAC,KAAK,CAAC,CAAC,CAAC,CAAC,EAAE;gBAC1B,OAAO,CAAC,IAAI,CAAC,OAAO,CAAC,IAAI,CAAC,MAAM,CAAC,GAAG,IAAI,CAAC,KAAK,CAAC,CAAC,CAAC,CAAA;aAClD;SACF;QACD,OAAO,OAAO,CAAC;IACnB,CAAC;IAED;;;OAGG;IACH,MAAM;QACF,OAAO,IAAI,CAAC,KAAK,CAAC,MAAM,CAAA;IAC5B,CAAC;IAED;;;;OAIG;IACH,GAAG,CAAC,QAAqB;QACrB,MAAM,OAAO,GAAG,IAAI,KAAK,CAAI,EAAE,CAAC,CAAA;QAChC,KAAK,IAAI,CAAC,GAAG,CAAC,EAAE,CAAC,GAAG,IAAI,CAAC,KAAK,CAAC,MAAM,EAAE,EAAE,CAAC,EAAE;YAC1C,OAAO,CAAC,IAAI,CAAC,OAAO,CAAC,IAAI,CAAC,MAAM,CAAC,GAAG,QAAQ,CAAC,IAAI,CAAC,KAAK,CAAC,CAAC,CAAC,CAAC,CAAA;SAC5D;QACD,OAAO,OAAO,CAAC;IACnB,CAAC;IAED;;;;;OAKG;IACH,MAAM,CAAC,QAA6B,EAAE,WAAc;QAChD,KAAK,IAAI,CAAC,GAAG,CAAC,EAAE,CAAC,GAAG,IAAI,CAAC,KAAK,CAAC,MAAM,EAAE,EAAE,CAAC,EAAE;YAC1C,WAAW,GAAG,QAAQ,CAAC,IAAI,CAAC,KAAK,CAAC,CAAC,CAAC,EAAE,WAAW,CAAC,CAAA;SACnD;QACD,OAAO,WAAW,CAAC;IACvB,CAAC;IAED;;OAEG;IACH,OAAO;QACH,MAAM,KAAK,GAAG,CAAC,GAAG,IAAI,CAAC,KAAK,CAAC,CAAA;QAC7B,KAAK,IAAI,CAAC,GAAG,CAAC,EAAE,CAAC,GAAG,IAAI,CAAC,KAAK,CAAC,MAAM,EAAE,EAAE,CAAC,EAAE;YACxC,IAAI,CAAC,KAAK,CAAC,CAAC,CAAC,GAAG,KAAK,CAAC,IAAI,CAAC,KAAK,CAAC,MAAM,GAAE,CAAC,GAAE,CAAC,CAAC,CAAA;SACjD;IACL,CAAC;IAED;;;OAGG;IACH,OAAO,CAAC,QAAqB;QACzB,KAAK,IAAI,CAAC,GAAG,CAAC,EAAE,CAAC,GAAG,IAAI,CAAC,KAAK,CAAC,MAAM,EAAE,EAAE,CAAC,EAAE;YACxC,IAAI,CAAC,KAAK,CAAC,CAAC,CAAC,GAAG,QAAQ,CAAC,IAAI,CAAC,KAAK,CAAC,CAAC,CAAC,CAAC,CAAA;SAC1C;IACL,CAAC;CAEJ;AArHD,sBAqHC",
+      "sourcesContent": [
+        "/**\n * Clase que representa una lista genérica de elementos\n */\nexport class Lista<T> {\n    /**\n     * Constructor de la clase\n     * @param _list Array que almacena la lista genérica\n     */\n    constructor(private _list: T[]) {\n    }\n\n    /**\n     * Getter de la lista\n     */\n    get list() {\n        return this._list\n    }\n\n    /**\n     * Setter de la lista\n     */\n    set list(list: T[]) {\n        this._list = list\n    }\n\n    /**\n     * Método que permite introducir la lista pasada por parámetros en la lista actual\n     * @param lista Lista que se va a introducir\n     */\n    append(lista: Lista<T>): void{\n        for (let i = 0; i< lista._list.length; ++i) {\n            this._list[this._list.length] = lista._list[i]\n        }\n    }\n\n    /**\n     * Método que concatena listas genéricas\n     * @param lista Listas que se van a concatenar\n     * @returns Listas concatenadas\n     */\n    concatenate(lista: Lista<T>[]): Lista<T>{\n        const newList = new Lista<T>([])\n        newList.list = [...this._list]\n        for (let i = 0; i< lista.length; ++i) {\n            for (let j = 0; j < lista[i].list.length; ++j) {\n                newList.list[newList.list.length] = lista[i]._list[j]\n            }\n        }\n        return newList\n    }\n\n    /**\n     * Método que filtra los elementos de una lista\n     * @param callback Función que filtra los elementos\n     * @returns Lista filtrada\n     */\n    filter(callback: (i: T) => boolean): Lista<T> {\n        const newList = new Lista<T>([])\n        for (let i = 0; i < this._list.length; ++i) {\n          if(callback(this._list[i])) {\n            newList.list[newList.list.length] = this._list[i]\n          }\n        }\n        return newList;\n    }\n\n    /**\n     * Método que devuelve el tamaño de la lista\n     * @returns Tamaño de la lista\n     */\n    length(): number {\n        return this._list.length\n    }\n\n    /**\n     * Método que devuelve una lista a cuyos elementos se le aplica el mapeo con la función pasada por parámetros\n     * @param callback Función utilizada para mapear\n     * @returns \n     */\n    map(callback: (i: T) => T): Lista<T> {\n        const newList = new Lista<T>([])\n        for (let i = 0; i < this._list.length; ++i) {\n          newList.list[newList.list.length] = callback(this._list[i])\n        }\n        return newList;\n    }\n\n    /**\n     * Método que permite acumular en una varibale según cierta función\n     * @param callback Función que dictamina lo que se va a acumular\n     * @param accumulator Acumulador\n     * @returns Acumulador \n     */\n    reduce(callback: (i: T, acc: T) => T, accumulator: T): T {\n        for (let i = 0; i < this._list.length; ++i) {\n          accumulator = callback(this._list[i], accumulator)\n        }\n        return accumulator;\n    }\n\n    /**\n     * Método que invierte la lista\n     */\n    reverse(): void {\n        const array = [...this._list]\n        for (let i = 0; i < this._list.length; ++i) {\n            this._list[i] = array[this._list.length -1 -i]\n        }\n    }\n\n    /**\n     * Método que, para cada elemento de la lista, aplica una función\n     * @param callback Función que se va a aplicar en cada elemento\n     */\n    forEach(callback: (i: T) => T): void {\n        for (let i = 0; i < this._list.length; ++i) {\n            this._list[i] = callback(this._list[i])\n        }\n    }\n    \n}"
+      ]
+    },
+    "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
+    "hash": "26ab925168507e5f9fd32a3ac4a0eb6a46a9e391",
+    "contentHash": "8e0e0776a8ea3bf4863b6a3e168c1ca9fa7eb54cd65fcb801a0c706b1af27fe1"
+  },
+  "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-3/Discografia.ts": {
+    "path": "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-3/Discografia.ts",
+    "statementMap": {
+      "0": {
+        "start": { "line": 2, "column": 0 },
+        "end": { "line": 2, "column": 62 }
+      },
+      "1": {
+        "start": { "line": 3, "column": 0 },
+        "end": { "line": 3, "column": 29 }
+      },
+      "2": {
+        "start": { "line": 14, "column": 8 },
+        "end": { "line": 14, "column": 40 }
+      },
+      "3": {
+        "start": { "line": 20, "column": 8 },
+        "end": { "line": 20, "column": 33 }
+      },
+      "4": {
+        "start": { "line": 27, "column": 8 },
+        "end": { "line": 27, "column": 40 }
+      },
+      "5": {
+        "start": { "line": 35, "column": 22 },
+        "end": { "line": 35, "column": 24 }
+      },
+      "6": {
+        "start": { "line": 36, "column": 8 },
+        "end": { "line": 42, "column": 9 }
+      },
+      "7": {
+        "start": { "line": 36, "column": 21 },
+        "end": { "line": 36, "column": 22 }
+      },
+      "8": {
+        "start": { "line": 37, "column": 12 },
+        "end": { "line": 41, "column": 13 }
+      },
+      "9": {
+        "start": { "line": 40, "column": 16 },
+        "end": { "line": 40, "column": 49 }
+      },
+      "10": {
+        "start": { "line": 43, "column": 8 },
+        "end": { "line": 43, "column": 29 }
+      },
+      "11": {
+        "start": { "line": 44, "column": 8 },
+        "end": { "line": 44, "column": 21 }
+      },
+      "12": {
+        "start": { "line": 51, "column": 8 },
+        "end": { "line": 51, "column": 37 }
+      },
+      "13": {
+        "start": { "line": 54, "column": 0 },
+        "end": { "line": 54, "column": 34 }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "(anonymous_0)",
+        "decl": {
+          "start": { "line": 13, "column": 4 },
+          "end": { "line": 13, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 13, "column": 29 },
+          "end": { "line": 15, "column": 5 }
+        },
+        "line": 13
+      },
+      "1": {
+        "name": "(anonymous_1)",
+        "decl": {
+          "start": { "line": 19, "column": 4 },
+          "end": { "line": 19, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 19, "column": 22 },
+          "end": { "line": 21, "column": 5 }
+        },
+        "line": 19
+      },
+      "2": {
+        "name": "(anonymous_2)",
+        "decl": {
+          "start": { "line": 26, "column": 4 },
+          "end": { "line": 26, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 26, "column": 33 },
+          "end": { "line": 28, "column": 5 }
+        },
+        "line": 26
+      },
+      "3": {
+        "name": "(anonymous_3)",
+        "decl": {
+          "start": { "line": 34, "column": 4 },
+          "end": { "line": 34, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 34, "column": 23 },
+          "end": { "line": 45, "column": 5 }
+        },
+        "line": 34
+      },
+      "4": {
+        "name": "(anonymous_4)",
+        "decl": {
+          "start": { "line": 50, "column": 4 },
+          "end": { "line": 50, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 50, "column": 18 },
+          "end": { "line": 52, "column": 5 }
+        },
+        "line": 50
+      }
+    },
+    "branchMap": {
+      "0": {
+        "loc": {
+          "start": { "line": 37, "column": 12 },
+          "end": { "line": 41, "column": 13 }
+        },
+        "type": "if",
+        "locations": [
+          {
+            "start": { "line": 37, "column": 12 },
+            "end": { "line": 41, "column": 13 }
+          },
+          {
+            "start": { "line": 37, "column": 12 },
+            "end": { "line": 41, "column": 13 }
+          }
+        ],
+        "line": 37
+      }
+    },
+    "s": {
+      "0": 1,
+      "1": 1,
+      "2": 7,
+      "3": 7,
+      "4": 2,
+      "5": 1,
+      "6": 1,
+      "7": 1,
+      "8": 2,
+      "9": 1,
+      "10": 1,
+      "11": 1,
+      "12": 1,
+      "13": 1
+    },
+    "f": { "0": 7, "1": 7, "2": 2, "3": 1, "4": 1 },
+    "b": { "0": [1, 1] },
+    "inputSourceMap": {
+      "version": 3,
+      "file": "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-3/Discografia.ts",
+      "sources": [
+        "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-3/Discografia.ts"
+      ],
+      "names": [],
+      "mappings": ";;;AAGA;;GAEG;AACH,MAAa,WAAW;IACd,YAAY,CAAM;IAE1B;;;OAGG;IACH,YAAY,WAAgB;QAC1B,IAAI,CAAC,YAAY,GAAG,WAAW,CAAC;IAClC,CAAC;IAED;;OAEG;IACH,IAAI,WAAW;QACb,OAAO,IAAI,CAAC,YAAY,CAAC;IAC3B,CAAC;IAED;;;OAGG;IACH,IAAI,WAAW,CAAC,WAAW;QACzB,IAAI,CAAC,YAAY,GAAG,WAAW,CAAC;IAClC,CAAC;IAED;;;;OAIG;IACH,UAAU,CAAC,MAAc;QACvB,MAAM,KAAK,GAAQ,EAAE,CAAC;QACtB,KAAK,IAAI,CAAC,GAAG,CAAC,EAAE,CAAC,GAAG,IAAI,CAAC,YAAY,CAAC,MAAM,EAAE,EAAE,CAAC,EAAE;YACjD,IACE,IAAI,CAAC,YAAY,CAAC,CAAC,CAAC,CAAC,MAAM;iBACxB,WAAW,EAAE;iBACb,QAAQ,CAAC,MAAM,CAAC,WAAW,EAAE,CAAC,KAAK,IAAI,EAC1C;gBACA,KAAK,CAAC,IAAI,CAAC,IAAI,CAAC,YAAY,CAAC,CAAC,CAAC,CAAC,CAAC;aAClC;SACF;QACD,OAAO,CAAC,KAAK,CAAC,KAAK,CAAC,CAAC;QACrB,OAAO,KAAK,CAAC;IACf,CAAC;IAED;;;OAGG;IACH,OAAO,CAAC,IAAO;QACb,IAAI,CAAC,YAAY,CAAC,IAAI,CAAC,IAAI,CAAC,CAAC;IAC/B,CAAC;CACF;AArDD,kCAqDC",
+      "sourcesContent": [
+        "import { Disco } from \"./Disco\";\nimport { Single } from \"./Single\";\n\n/**\n * Clase que permite gestionar una lista de discos\n */\nexport class Discografia<T extends Disco | Single> {\n  private _discografia: T[];\n\n  /**\n   * Constructor de la clase discografía\n   * @param discografia Array de discos\n   */\n  constructor(discografia: T[]) {\n    this._discografia = discografia;\n  }\n\n  /**\n   * Getter de la discografía\n   */\n  get discografia() {\n    return this._discografia;\n  }\n\n  /**\n   * Setter de la discografía\n   * @param discografia Nueva discografia\n   */\n  set discografia(discografia) {\n    this._discografia = discografia;\n  }\n\n  /**\n   * Función que busca discos o singles en la discografia\n   * @param nombre Nombre del disco a buscar\n   * @returns Lista de discos que coinciden con la busqueda\n   */\n  searchItem(nombre: string): T[] {\n    const lista: T[] = [];\n    for (let i = 0; i < this._discografia.length; ++i) {\n      if (\n        this._discografia[i].nombre\n          .toLowerCase()\n          .includes(nombre.toLowerCase()) === true\n      ) {\n        lista.push(this._discografia[i]);\n      }\n    }\n    console.table(lista);\n    return lista;\n  }\n\n  /**\n   * Función que permite añadir discos/singles a la lista\n   * @param disco Disco o single a añadir\n   */\n  addItem(item: T): void {\n    this._discografia.push(item);\n  }\n}\n"
+      ]
+    },
+    "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
+    "hash": "2ad3a6dfb771897276c350cebc7de7305ebc5a24",
+    "contentHash": "59bc6f5b196ff68dfa62ba4f3881080bbb60bff06d49e8575c5aca44d6f55eba"
+  },
+  "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-3/Cancion.ts": {
+    "path": "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-3/Cancion.ts",
+    "statementMap": {
+      "0": {
+        "start": { "line": 2, "column": 0 },
+        "end": { "line": 2, "column": 62 }
+      },
+      "1": {
+        "start": { "line": 3, "column": 0 },
+        "end": { "line": 3, "column": 25 }
+      },
+      "2": {
+        "start": { "line": 22, "column": 8 },
+        "end": { "line": 24, "column": 9 }
+      },
+      "3": {
+        "start": { "line": 23, "column": 12 },
+        "end": { "line": 23, "column": 69 }
+      },
+      "4": {
+        "start": { "line": 25, "column": 8 },
+        "end": { "line": 27, "column": 9 }
+      },
+      "5": {
+        "start": { "line": 26, "column": 12 },
+        "end": { "line": 26, "column": 102 }
+      },
+      "6": {
+        "start": { "line": 28, "column": 8 },
+        "end": { "line": 28, "column": 30 }
+      },
+      "7": {
+        "start": { "line": 29, "column": 8 },
+        "end": { "line": 29, "column": 34 }
+      },
+      "8": {
+        "start": { "line": 30, "column": 8 },
+        "end": { "line": 30, "column": 30 }
+      },
+      "9": {
+        "start": { "line": 31, "column": 8 },
+        "end": { "line": 31, "column": 30 }
+      },
+      "10": {
+        "start": { "line": 32, "column": 8 },
+        "end": { "line": 32, "column": 46 }
+      },
+      "11": {
+        "start": { "line": 38, "column": 8 },
+        "end": { "line": 38, "column": 28 }
+      },
+      "12": {
+        "start": { "line": 45, "column": 8 },
+        "end": { "line": 45, "column": 30 }
+      },
+      "13": {
+        "start": { "line": 51, "column": 8 },
+        "end": { "line": 51, "column": 30 }
+      },
+      "14": {
+        "start": { "line": 58, "column": 8 },
+        "end": { "line": 58, "column": 34 }
+      },
+      "15": {
+        "start": { "line": 64, "column": 8 },
+        "end": { "line": 64, "column": 28 }
+      },
+      "16": {
+        "start": { "line": 71, "column": 8 },
+        "end": { "line": 71, "column": 30 }
+      },
+      "17": {
+        "start": { "line": 77, "column": 8 },
+        "end": { "line": 77, "column": 28 }
+      },
+      "18": {
+        "start": { "line": 84, "column": 8 },
+        "end": { "line": 84, "column": 30 }
+      },
+      "19": {
+        "start": { "line": 90, "column": 8 },
+        "end": { "line": 90, "column": 36 }
+      },
+      "20": {
+        "start": { "line": 97, "column": 8 },
+        "end": { "line": 97, "column": 46 }
+      },
+      "21": {
+        "start": { "line": 100, "column": 0 },
+        "end": { "line": 100, "column": 26 }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "(anonymous_0)",
+        "decl": {
+          "start": { "line": 21, "column": 4 },
+          "end": { "line": 21, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 21, "column": 66 },
+          "end": { "line": 33, "column": 5 }
+        },
+        "line": 21
+      },
+      "1": {
+        "name": "(anonymous_1)",
+        "decl": {
+          "start": { "line": 37, "column": 4 },
+          "end": { "line": 37, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 37, "column": 17 },
+          "end": { "line": 39, "column": 5 }
+        },
+        "line": 37
+      },
+      "2": {
+        "name": "(anonymous_2)",
+        "decl": {
+          "start": { "line": 44, "column": 4 },
+          "end": { "line": 44, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 44, "column": 23 },
+          "end": { "line": 46, "column": 5 }
+        },
+        "line": 44
+      },
+      "3": {
+        "name": "(anonymous_3)",
+        "decl": {
+          "start": { "line": 50, "column": 4 },
+          "end": { "line": 50, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 50, "column": 19 },
+          "end": { "line": 52, "column": 5 }
+        },
+        "line": 50
+      },
+      "4": {
+        "name": "(anonymous_4)",
+        "decl": {
+          "start": { "line": 57, "column": 4 },
+          "end": { "line": 57, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 57, "column": 27 },
+          "end": { "line": 59, "column": 5 }
+        },
+        "line": 57
+      },
+      "5": {
+        "name": "(anonymous_5)",
+        "decl": {
+          "start": { "line": 63, "column": 4 },
+          "end": { "line": 63, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 63, "column": 17 },
+          "end": { "line": 65, "column": 5 }
+        },
+        "line": 63
+      },
+      "6": {
+        "name": "(anonymous_6)",
+        "decl": {
+          "start": { "line": 70, "column": 4 },
+          "end": { "line": 70, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 70, "column": 23 },
+          "end": { "line": 72, "column": 5 }
+        },
+        "line": 70
+      },
+      "7": {
+        "name": "(anonymous_7)",
+        "decl": {
+          "start": { "line": 76, "column": 4 },
+          "end": { "line": 76, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 76, "column": 17 },
+          "end": { "line": 78, "column": 5 }
+        },
+        "line": 76
+      },
+      "8": {
+        "name": "(anonymous_8)",
+        "decl": {
+          "start": { "line": 83, "column": 4 },
+          "end": { "line": 83, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 83, "column": 23 },
+          "end": { "line": 85, "column": 5 }
+        },
+        "line": 83
+      },
+      "9": {
+        "name": "(anonymous_9)",
+        "decl": {
+          "start": { "line": 89, "column": 4 },
+          "end": { "line": 89, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 89, "column": 25 },
+          "end": { "line": 91, "column": 5 }
+        },
+        "line": 89
+      },
+      "10": {
+        "name": "(anonymous_10)",
+        "decl": {
+          "start": { "line": 96, "column": 4 },
+          "end": { "line": 96, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 96, "column": 39 },
+          "end": { "line": 98, "column": 5 }
+        },
+        "line": 96
+      }
+    },
+    "branchMap": {
+      "0": {
+        "loc": {
+          "start": { "line": 22, "column": 8 },
+          "end": { "line": 24, "column": 9 }
+        },
+        "type": "if",
+        "locations": [
+          {
+            "start": { "line": 22, "column": 8 },
+            "end": { "line": 24, "column": 9 }
+          },
+          {
+            "start": { "line": 22, "column": 8 },
+            "end": { "line": 24, "column": 9 }
+          }
+        ],
+        "line": 22
+      },
+      "1": {
+        "loc": {
+          "start": { "line": 25, "column": 8 },
+          "end": { "line": 27, "column": 9 }
+        },
+        "type": "if",
+        "locations": [
+          {
+            "start": { "line": 25, "column": 8 },
+            "end": { "line": 27, "column": 9 }
+          },
+          {
+            "start": { "line": 25, "column": 8 },
+            "end": { "line": 27, "column": 9 }
+          }
+        ],
+        "line": 25
+      }
+    },
+    "s": {
+      "0": 1,
+      "1": 1,
+      "2": 40,
+      "3": 1,
+      "4": 39,
+      "5": 2,
+      "6": 37,
+      "7": 37,
+      "8": 37,
+      "9": 37,
+      "10": 37,
+      "11": 8,
+      "12": 1,
+      "13": 5,
+      "14": 1,
+      "15": 2,
+      "16": 1,
+      "17": 4,
+      "18": 1,
+      "19": 5,
+      "20": 1,
+      "21": 1
+    },
+    "f": {
+      "0": 40,
+      "1": 8,
+      "2": 1,
+      "3": 5,
+      "4": 1,
+      "5": 2,
+      "6": 1,
+      "7": 4,
+      "8": 1,
+      "9": 5,
+      "10": 1
+    },
+    "b": { "0": [1, 39], "1": [2, 37] },
+    "inputSourceMap": {
+      "version": 3,
+      "file": "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-3/Cancion.ts",
+      "sources": [
+        "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-3/Cancion.ts"
+      ],
+      "names": [],
+      "mappings": ";;;AAAA;;GAEG;AACH,MAAa,OAAO;IACV,OAAO,CAAS;IAChB,SAAS,CAAS;IAClB,OAAO,CAAS;IAChB,OAAO,CAAU;IACjB,eAAe,CAAS;IAEhC;;;;;;;OAOG;IACH,YACE,MAAc,EACd,QAAgB,EAChB,MAAc,EACd,MAAe,EACf,cAAsB;QAEtB,IAAI,QAAQ,GAAG,CAAC,EAAE;YAChB,MAAM,IAAI,SAAS,CAAC,mCAAmC,CAAC,CAAC;SAC1D;QACD,IAAI,MAAM,CAAC,IAAI,CAAC,cAAc,CAAC,QAAQ,EAAE,CAAC,KAAK,IAAI,EAAE;YACnD,MAAM,IAAI,SAAS,CACjB,oEAAoE,CACrE,CAAC;SACH;QACD,IAAI,CAAC,OAAO,GAAG,MAAM,CAAC;QACtB,IAAI,CAAC,SAAS,GAAG,QAAQ,CAAC;QAC1B,IAAI,CAAC,OAAO,GAAG,MAAM,CAAC;QACtB,IAAI,CAAC,OAAO,GAAG,MAAM,CAAC;QACtB,IAAI,CAAC,eAAe,GAAG,cAAc,CAAC;IACxC,CAAC;IAED;;OAEG;IACH,IAAI,MAAM;QACR,OAAO,IAAI,CAAC,OAAO,CAAC;IACtB,CAAC;IAED;;;OAGG;IACH,IAAI,MAAM,CAAC,MAAM;QACf,IAAI,CAAC,OAAO,GAAG,MAAM,CAAC;IACxB,CAAC;IAED;;OAEG;IACH,IAAI,QAAQ;QACV,OAAO,IAAI,CAAC,SAAS,CAAC;IACxB,CAAC;IAED;;;OAGG;IACH,IAAI,QAAQ,CAAC,QAAQ;QACnB,IAAI,CAAC,SAAS,GAAG,QAAQ,CAAC;IAC5B,CAAC;IAED;;OAEG;IACH,IAAI,MAAM;QACR,OAAO,IAAI,CAAC,OAAO,CAAC;IACtB,CAAC;IAED;;;OAGG;IACH,IAAI,MAAM,CAAC,MAAM;QACf,IAAI,CAAC,OAAO,GAAG,MAAM,CAAC;IACxB,CAAC;IAED;;OAEG;IACH,IAAI,MAAM;QACR,OAAO,IAAI,CAAC,OAAO,CAAC;IACtB,CAAC;IAED;;;OAGG;IACH,IAAI,MAAM,CAAC,MAAM;QACf,IAAI,CAAC,OAAO,GAAG,MAAM,CAAC;IACxB,CAAC;IAED;;OAEG;IACH,IAAI,cAAc;QAChB,OAAO,IAAI,CAAC,eAAe,CAAC;IAC9B,CAAC;IAED;;;OAGG;IACH,IAAI,cAAc,CAAC,cAAc;QAC/B,IAAI,CAAC,eAAe,GAAG,cAAc,CAAC;IACxC,CAAC;CACF;AA/GD,0BA+GC",
+      "sourcesContent": [
+        "/**\n * Clase que representa una canción\n */\nexport class Cancion {\n  private _nombre: string;\n  private _duracion: number;\n  private _genero: string;\n  private _single: boolean;\n  private _reproducciones: number;\n\n  /**\n   * Constructor de la clase Canción\n   * @param nombre Nombre de la canción\n   * @param duracion Duración en segundos\n   * @param genero Género musical\n   * @param single Si fue lanzada como single\n   * @param reproducciones Número de reproducciones\n   */\n  constructor(\n    nombre: string,\n    duracion: number,\n    genero: string,\n    single: boolean,\n    reproducciones: number\n  ) {\n    if (duracion < 0) {\n      throw new TypeError(\"La duración no puede ser negativa\");\n    }\n    if (/\\.|-/.test(reproducciones.toString()) === true) {\n      throw new TypeError(\n        \"La cantidad de reproducciones debe de ser un valor entero positivo\"\n      );\n    }\n    this._nombre = nombre;\n    this._duracion = duracion;\n    this._genero = genero;\n    this._single = single;\n    this._reproducciones = reproducciones;\n  }\n\n  /**\n   * Getter del nombre\n   */\n  get nombre() {\n    return this._nombre;\n  }\n\n  /**\n   * Setter del nombre\n   * @param nombre nombre de la canción\n   */\n  set nombre(nombre) {\n    this._nombre = nombre;\n  }\n\n  /**\n   * Getter de la duración\n   */\n  get duracion() {\n    return this._duracion;\n  }\n\n  /**\n   * Setter de la duración\n   * @param duarcion Duración de la cación\n   */\n  set duracion(duracion) {\n    this._duracion = duracion;\n  }\n\n  /**\n   * Getter del género\n   */\n  get genero() {\n    return this._genero;\n  }\n\n  /**\n   * Setter del género\n   * @param genero Nuevo genero musical\n   */\n  set genero(genero) {\n    this._genero = genero;\n  }\n\n  /**\n   * Getter de si es un single\n   */\n  get single() {\n    return this._single;\n  }\n\n  /**\n   * Setter de si es un single o no\n   * @param single nuevo indicador de single\n   */\n  set single(single) {\n    this._single = single;\n  }\n\n  /**\n   * Getter del número de reproducciones\n   */\n  get reproducciones() {\n    return this._reproducciones;\n  }\n\n  /**\n   * Setter del número de reproducciones\n   * @param Reproducciones nuevo número de reproducciones\n   */\n  set reproducciones(reproducciones) {\n    this._reproducciones = reproducciones;\n  }\n}\n"
+      ]
+    },
+    "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
+    "hash": "2aac8d90e73a5f3e58e0ce8817501ab27238c626",
+    "contentHash": "7665cb1a4aeef5a3e40fa276e497ab262076d734a1c6695de93ec74edf93dda2"
+  },
+  "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-3/Disco.ts": {
+    "path": "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-3/Disco.ts",
+    "statementMap": {
+      "0": {
+        "start": { "line": 2, "column": 0 },
+        "end": { "line": 2, "column": 62 }
+      },
+      "1": {
+        "start": { "line": 3, "column": 0 },
+        "end": { "line": 3, "column": 23 }
+      },
+      "2": {
+        "start": { "line": 18, "column": 8 },
+        "end": { "line": 18, "column": 30 }
+      },
+      "3": {
+        "start": { "line": 19, "column": 8 },
+        "end": { "line": 19, "column": 24 }
+      },
+      "4": {
+        "start": { "line": 20, "column": 8 },
+        "end": { "line": 20, "column": 36 }
+      },
+      "5": {
+        "start": { "line": 26, "column": 8 },
+        "end": { "line": 26, "column": 28 }
+      },
+      "6": {
+        "start": { "line": 33, "column": 8 },
+        "end": { "line": 33, "column": 30 }
+      },
+      "7": {
+        "start": { "line": 39, "column": 8 },
+        "end": { "line": 39, "column": 25 }
+      },
+      "8": {
+        "start": { "line": 46, "column": 8 },
+        "end": { "line": 46, "column": 24 }
+      },
+      "9": {
+        "start": { "line": 52, "column": 8 },
+        "end": { "line": 52, "column": 31 }
+      },
+      "10": {
+        "start": { "line": 59, "column": 8 },
+        "end": { "line": 59, "column": 36 }
+      },
+      "11": {
+        "start": { "line": 67, "column": 22 },
+        "end": { "line": 67, "column": 24 }
+      },
+      "12": {
+        "start": { "line": 68, "column": 8 },
+        "end": { "line": 74, "column": 9 }
+      },
+      "13": {
+        "start": { "line": 68, "column": 21 },
+        "end": { "line": 68, "column": 22 }
+      },
+      "14": {
+        "start": { "line": 69, "column": 12 },
+        "end": { "line": 73, "column": 13 }
+      },
+      "15": {
+        "start": { "line": 72, "column": 16 },
+        "end": { "line": 72, "column": 47 }
+      },
+      "16": {
+        "start": { "line": 75, "column": 8 },
+        "end": { "line": 75, "column": 29 }
+      },
+      "17": {
+        "start": { "line": 76, "column": 8 },
+        "end": { "line": 76, "column": 21 }
+      },
+      "18": {
+        "start": { "line": 83, "column": 8 },
+        "end": { "line": 83, "column": 38 }
+      },
+      "19": {
+        "start": { "line": 90, "column": 8 },
+        "end": { "line": 90, "column": 38 }
+      },
+      "20": {
+        "start": { "line": 97, "column": 23 },
+        "end": { "line": 97, "column": 24 }
+      },
+      "21": {
+        "start": { "line": 98, "column": 8 },
+        "end": { "line": 100, "column": 9 }
+      },
+      "22": {
+        "start": { "line": 98, "column": 21 },
+        "end": { "line": 98, "column": 22 }
+      },
+      "23": {
+        "start": { "line": 99, "column": 12 },
+        "end": { "line": 99, "column": 52 }
+      },
+      "24": {
+        "start": { "line": 101, "column": 8 },
+        "end": { "line": 101, "column": 24 }
+      },
+      "25": {
+        "start": { "line": 108, "column": 29 },
+        "end": { "line": 108, "column": 30 }
+      },
+      "26": {
+        "start": { "line": 109, "column": 8 },
+        "end": { "line": 111, "column": 9 }
+      },
+      "27": {
+        "start": { "line": 109, "column": 21 },
+        "end": { "line": 109, "column": 22 }
+      },
+      "28": {
+        "start": { "line": 110, "column": 12 },
+        "end": { "line": 110, "column": 64 }
+      },
+      "29": {
+        "start": { "line": 112, "column": 8 },
+        "end": { "line": 112, "column": 30 }
+      },
+      "30": {
+        "start": { "line": 115, "column": 0 },
+        "end": { "line": 115, "column": 22 }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "(anonymous_0)",
+        "decl": {
+          "start": { "line": 17, "column": 4 },
+          "end": { "line": 17, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 17, "column": 40 },
+          "end": { "line": 21, "column": 5 }
+        },
+        "line": 17
+      },
+      "1": {
+        "name": "(anonymous_1)",
+        "decl": {
+          "start": { "line": 25, "column": 4 },
+          "end": { "line": 25, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 25, "column": 17 },
+          "end": { "line": 27, "column": 5 }
+        },
+        "line": 25
+      },
+      "2": {
+        "name": "(anonymous_2)",
+        "decl": {
+          "start": { "line": 32, "column": 4 },
+          "end": { "line": 32, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 32, "column": 23 },
+          "end": { "line": 34, "column": 5 }
+        },
+        "line": 32
+      },
+      "3": {
+        "name": "(anonymous_3)",
+        "decl": {
+          "start": { "line": 38, "column": 4 },
+          "end": { "line": 38, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 38, "column": 14 },
+          "end": { "line": 40, "column": 5 }
+        },
+        "line": 38
+      },
+      "4": {
+        "name": "(anonymous_4)",
+        "decl": {
+          "start": { "line": 45, "column": 4 },
+          "end": { "line": 45, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 45, "column": 17 },
+          "end": { "line": 47, "column": 5 }
+        },
+        "line": 45
+      },
+      "5": {
+        "name": "(anonymous_5)",
+        "decl": {
+          "start": { "line": 51, "column": 4 },
+          "end": { "line": 51, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 51, "column": 20 },
+          "end": { "line": 53, "column": 5 }
+        },
+        "line": 51
+      },
+      "6": {
+        "name": "(anonymous_6)",
+        "decl": {
+          "start": { "line": 58, "column": 4 },
+          "end": { "line": 58, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 58, "column": 29 },
+          "end": { "line": 60, "column": 5 }
+        },
+        "line": 58
+      },
+      "7": {
+        "name": "(anonymous_7)",
+        "decl": {
+          "start": { "line": 66, "column": 4 },
+          "end": { "line": 66, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 66, "column": 23 },
+          "end": { "line": 77, "column": 5 }
+        },
+        "line": 66
+      },
+      "8": {
+        "name": "(anonymous_8)",
+        "decl": {
+          "start": { "line": 82, "column": 4 },
+          "end": { "line": 82, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 82, "column": 21 },
+          "end": { "line": 84, "column": 5 }
+        },
+        "line": 82
+      },
+      "9": {
+        "name": "(anonymous_9)",
+        "decl": {
+          "start": { "line": 89, "column": 4 },
+          "end": { "line": 89, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 89, "column": 20 },
+          "end": { "line": 91, "column": 5 }
+        },
+        "line": 89
+      },
+      "10": {
+        "name": "(anonymous_10)",
+        "decl": {
+          "start": { "line": 96, "column": 4 },
+          "end": { "line": 96, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 96, "column": 20 },
+          "end": { "line": 102, "column": 5 }
+        },
+        "line": 96
+      },
+      "11": {
+        "name": "(anonymous_11)",
+        "decl": {
+          "start": { "line": 107, "column": 4 },
+          "end": { "line": 107, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 107, "column": 25 },
+          "end": { "line": 113, "column": 5 }
+        },
+        "line": 107
+      }
+    },
+    "branchMap": {
+      "0": {
+        "loc": {
+          "start": { "line": 69, "column": 12 },
+          "end": { "line": 73, "column": 13 }
+        },
+        "type": "if",
+        "locations": [
+          {
+            "start": { "line": 69, "column": 12 },
+            "end": { "line": 73, "column": 13 }
+          },
+          {
+            "start": { "line": 69, "column": 12 },
+            "end": { "line": 73, "column": 13 }
+          }
+        ],
+        "line": 69
+      }
+    },
+    "s": {
+      "0": 1,
+      "1": 1,
+      "2": 10,
+      "3": 10,
+      "4": 10,
+      "5": 6,
+      "6": 2,
+      "7": 2,
+      "8": 2,
+      "9": 2,
+      "10": 2,
+      "11": 1,
+      "12": 1,
+      "13": 1,
+      "14": 3,
+      "15": 1,
+      "16": 1,
+      "17": 1,
+      "18": 1,
+      "19": 1,
+      "20": 1,
+      "21": 1,
+      "22": 1,
+      "23": 3,
+      "24": 1,
+      "25": 1,
+      "26": 1,
+      "27": 1,
+      "28": 3,
+      "29": 1,
+      "30": 1
+    },
+    "f": {
+      "0": 10,
+      "1": 6,
+      "2": 2,
+      "3": 2,
+      "4": 2,
+      "5": 2,
+      "6": 2,
+      "7": 1,
+      "8": 1,
+      "9": 1,
+      "10": 1,
+      "11": 1
+    },
+    "b": { "0": [1, 2] },
+    "inputSourceMap": {
+      "version": 3,
+      "file": "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-3/Disco.ts",
+      "sources": [
+        "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-3/Disco.ts"
+      ],
+      "names": [],
+      "mappings": ";;;AAEA;;GAEG;AACH,MAAa,KAAK;IACR,OAAO,CAAS;IAChB,IAAI,CAAS;IACb,UAAU,CAAiB;IAEnC;;;;;OAKG;IACH,YAAY,MAAc,EAAE,GAAW,EAAE,SAAyB;QAChE,IAAI,CAAC,OAAO,GAAG,MAAM,CAAC;QACtB,IAAI,CAAC,IAAI,GAAG,GAAG,CAAC;QAChB,IAAI,CAAC,UAAU,GAAG,SAAS,CAAC;IAC9B,CAAC;IAED;;OAEG;IACH,IAAI,MAAM;QACR,OAAO,IAAI,CAAC,OAAO,CAAC;IACtB,CAAC;IAED;;;OAGG;IACH,IAAI,MAAM,CAAC,MAAM;QACf,IAAI,CAAC,OAAO,GAAG,MAAM,CAAC;IACxB,CAAC;IAED;;OAEG;IACH,IAAI,GAAG;QACL,OAAO,IAAI,CAAC,IAAI,CAAC;IACnB,CAAC;IAED;;;OAGG;IACH,IAAI,GAAG,CAAC,GAAG;QACT,IAAI,CAAC,IAAI,GAAG,GAAG,CAAC;IAClB,CAAC;IAED;;OAEG;IACH,IAAI,SAAS;QACX,OAAO,IAAI,CAAC,UAAU,CAAC;IACzB,CAAC;IAED;;;OAGG;IACH,IAAI,SAAS,CAAC,SAAoB;QAChC,IAAI,CAAC,UAAU,GAAG,SAAS,CAAC;IAC9B,CAAC;IAED;;;;OAIG;IACH,UAAU,CAAC,MAAc;QACvB,MAAM,KAAK,GAAmB,EAAE,CAAC;QACjC,KAAK,IAAI,CAAC,GAAG,CAAC,EAAE,CAAC,GAAG,IAAI,CAAC,UAAU,CAAC,MAAM,EAAE,EAAE,CAAC,EAAE;YAC/C,IACE,IAAI,CAAC,UAAU,CAAC,CAAC,CAAC,CAAC,MAAM;iBACtB,WAAW,EAAE;iBACb,QAAQ,CAAC,MAAM,CAAC,WAAW,EAAE,CAAC,KAAK,IAAI,EAC1C;gBACA,KAAK,CAAC,IAAI,CAAC,IAAI,CAAC,UAAU,CAAC,CAAC,CAAC,CAAC,CAAC;aAChC;SACF;QACD,OAAO,CAAC,KAAK,CAAC,KAAK,CAAC,CAAC;QACrB,OAAO,KAAK,CAAC;IACf,CAAC;IAED;;;OAGG;IACH,OAAO,CAAC,OAAgB;QACtB,IAAI,CAAC,UAAU,CAAC,IAAI,CAAC,OAAO,CAAC,CAAC;IAChC,CAAC;IAED;;;OAGG;IACH,aAAa;QACX,OAAO,IAAI,CAAC,UAAU,CAAC,MAAM,CAAC;IAChC,CAAC;IAED;;;OAGG;IACH,aAAa;QACX,IAAI,QAAQ,GAAG,CAAC,CAAC;QACjB,KAAK,IAAI,CAAC,GAAG,CAAC,EAAE,CAAC,GAAG,IAAI,CAAC,UAAU,CAAC,MAAM,EAAE,EAAE,CAAC,EAAE;YAC/C,QAAQ,IAAI,IAAI,CAAC,UAAU,CAAC,CAAC,CAAC,CAAC,QAAQ,CAAC;SACzC;QACD,OAAO,QAAQ,CAAC;IAClB,CAAC;IAED;;;OAGG;IACH,kBAAkB;QAChB,IAAI,cAAc,GAAG,CAAC,CAAC;QACvB,KAAK,IAAI,CAAC,GAAG,CAAC,EAAE,CAAC,GAAG,IAAI,CAAC,UAAU,CAAC,MAAM,EAAE,EAAE,CAAC,EAAE;YAC/C,cAAc,IAAI,IAAI,CAAC,UAAU,CAAC,CAAC,CAAC,CAAC,cAAc,CAAC;SACrD;QACD,OAAO,cAAc,CAAC;IACxB,CAAC;CACF;AAzHD,sBAyHC",
+      "sourcesContent": [
+        "import { Cancion } from \"./Cancion\";\n\n/**\n * Clase que representa un disco\n */\nexport class Disco {\n  private _nombre: string;\n  private _año: number;\n  private _canciones: Array<Cancion>;\n\n  /**\n   * Constructor de la clase disco\n   * @param nombre Nombre del disco\n   * @param año Año de salida\n   * @param canciones Lista de canciones\n   */\n  constructor(nombre: string, año: number, canciones: Array<Cancion>) {\n    this._nombre = nombre;\n    this._año = año;\n    this._canciones = canciones;\n  }\n\n  /**\n   * Getter del nombre del disco\n   */\n  get nombre() {\n    return this._nombre;\n  }\n\n  /**\n   * Setter del nombre del disco\n   * @param nombre Nuevo nombre de disco\n   */\n  set nombre(nombre) {\n    this._nombre = nombre;\n  }\n\n  /**\n   * Getter del año del disco\n   */\n  get año() {\n    return this._año;\n  }\n\n  /**\n   * Setter del año del disco\n   * @param año nuevo año\n   */\n  set año(año) {\n    this._año = año;\n  }\n\n  /**\n   * Getter de la lista de canciones\n   */\n  get canciones() {\n    return this._canciones;\n  }\n\n  /**\n   * Setter de la lista de canciones\n   * @param canciones nueva lista de canciones\n   */\n  set canciones(canciones: Cancion[]) {\n    this._canciones = canciones;\n  }\n\n  /**\n   * Función que permite buscar una canción en la lista\n   * @param nombre Nombre de la canción a buscar\n   * @returns Lista con las coincidencias de nombres\n   */\n  searchSong(nombre: string): Array<Cancion> {\n    const lista: Array<Cancion> = [];\n    for (let i = 0; i < this._canciones.length; ++i) {\n      if (\n        this._canciones[i].nombre\n          .toLowerCase()\n          .includes(nombre.toLowerCase()) === true\n      ) {\n        lista.push(this._canciones[i]);\n      }\n    }\n    console.table(lista);\n    return lista;\n  }\n\n  /**\n   * Función que permite añadir canciones a la lista\n   * @param cancion Canción a añadir\n   */\n  addSong(cancion: Cancion): void {\n    this._canciones.push(cancion);\n  }\n\n  /**\n   * Función que permite conocer el número de canciones de la lista\n   * @returns Nº de canciones de la lista\n   */\n  numberOfSongs(): number {\n    return this._canciones.length;\n  }\n\n  /**\n   * Función que permite conocer la duración de la lista de canciones\n   * @returns Duración total de la lista en segundos\n   */\n  totalDuration(): number {\n    let duracion = 0;\n    for (let i = 0; i < this._canciones.length; ++i) {\n      duracion += this._canciones[i].duracion;\n    }\n    return duracion;\n  }\n\n  /**\n   * Función que permite conocer la s reproducciones de la lista de canciones\n   * @returns Reproducciones totales de la lista en segundos\n   */\n  totalReproductions(): number {\n    let reproducciones = 0;\n    for (let i = 0; i < this._canciones.length; ++i) {\n      reproducciones += this._canciones[i].reproducciones;\n    }\n    return reproducciones;\n  }\n}\n\n"
+      ]
+    },
+    "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
+    "hash": "7d32c17520863ea125c474a207d5fb9517d357dd",
+    "contentHash": "a78add395f2b86dfa0e8e9b522121e4ba479faf69d6b9fbbc5a5d15e2f09e573"
+  },
+  "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-3/Biblioteca.ts": {
+    "path": "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-3/Biblioteca.ts",
+    "statementMap": {
+      "0": {
+        "start": { "line": 2, "column": 0 },
+        "end": { "line": 2, "column": 62 }
+      },
+      "1": {
+        "start": { "line": 3, "column": 0 },
+        "end": { "line": 3, "column": 28 }
+      },
+      "2": {
+        "start": { "line": 14, "column": 8 },
+        "end": { "line": 14, "column": 44 }
+      },
+      "3": {
+        "start": { "line": 20, "column": 8 },
+        "end": { "line": 20, "column": 35 }
+      },
+      "4": {
+        "start": { "line": 27, "column": 8 },
+        "end": { "line": 27, "column": 44 }
+      },
+      "5": {
+        "start": { "line": 35, "column": 22 },
+        "end": { "line": 35, "column": 24 }
+      },
+      "6": {
+        "start": { "line": 36, "column": 8 },
+        "end": { "line": 42, "column": 9 }
+      },
+      "7": {
+        "start": { "line": 36, "column": 21 },
+        "end": { "line": 36, "column": 22 }
+      },
+      "8": {
+        "start": { "line": 37, "column": 12 },
+        "end": { "line": 41, "column": 13 }
+      },
+      "9": {
+        "start": { "line": 40, "column": 16 },
+        "end": { "line": 40, "column": 51 }
+      },
+      "10": {
+        "start": { "line": 43, "column": 8 },
+        "end": { "line": 43, "column": 29 }
+      },
+      "11": {
+        "start": { "line": 44, "column": 8 },
+        "end": { "line": 44, "column": 21 }
+      },
+      "12": {
+        "start": { "line": 51, "column": 8 },
+        "end": { "line": 51, "column": 42 }
+      },
+      "13": {
+        "start": { "line": 57, "column": 8 },
+        "end": { "line": 57, "column": 43 }
+      },
+      "14": {
+        "start": { "line": 58, "column": 20 },
+        "end": { "line": 58, "column": 22 }
+      },
+      "15": {
+        "start": { "line": 59, "column": 8 },
+        "end": { "line": 64, "column": 9 }
+      },
+      "16": {
+        "start": { "line": 59, "column": 21 },
+        "end": { "line": 59, "column": 22 }
+      },
+      "17": {
+        "start": { "line": 60, "column": 12 },
+        "end": { "line": 62, "column": 13 }
+      },
+      "18": {
+        "start": { "line": 61, "column": 16 },
+        "end": { "line": 61, "column": 30 }
+      },
+      "19": {
+        "start": { "line": 63, "column": 12 },
+        "end": { "line": 63, "column": 56 }
+      },
+      "20": {
+        "start": { "line": 65, "column": 8 },
+        "end": { "line": 65, "column": 21 }
+      },
+      "21": {
+        "start": { "line": 68, "column": 0 },
+        "end": { "line": 68, "column": 32 }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "(anonymous_0)",
+        "decl": {
+          "start": { "line": 13, "column": 4 },
+          "end": { "line": 13, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 13, "column": 31 },
+          "end": { "line": 15, "column": 5 }
+        },
+        "line": 13
+      },
+      "1": {
+        "name": "(anonymous_1)",
+        "decl": {
+          "start": { "line": 19, "column": 4 },
+          "end": { "line": 19, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 19, "column": 24 },
+          "end": { "line": 21, "column": 5 }
+        },
+        "line": 19
+      },
+      "2": {
+        "name": "(anonymous_2)",
+        "decl": {
+          "start": { "line": 26, "column": 4 },
+          "end": { "line": 26, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 26, "column": 37 },
+          "end": { "line": 28, "column": 5 }
+        },
+        "line": 26
+      },
+      "3": {
+        "name": "(anonymous_3)",
+        "decl": {
+          "start": { "line": 34, "column": 4 },
+          "end": { "line": 34, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 34, "column": 25 },
+          "end": { "line": 45, "column": 5 }
+        },
+        "line": 34
+      },
+      "4": {
+        "name": "(anonymous_4)",
+        "decl": {
+          "start": { "line": 50, "column": 4 },
+          "end": { "line": 50, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 50, "column": 23 },
+          "end": { "line": 52, "column": 5 }
+        },
+        "line": 50
+      },
+      "5": {
+        "name": "(anonymous_5)",
+        "decl": {
+          "start": { "line": 56, "column": 4 },
+          "end": { "line": 56, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 56, "column": 12 },
+          "end": { "line": 66, "column": 5 }
+        },
+        "line": 56
+      }
+    },
+    "branchMap": {
+      "0": {
+        "loc": {
+          "start": { "line": 37, "column": 12 },
+          "end": { "line": 41, "column": 13 }
+        },
+        "type": "if",
+        "locations": [
+          {
+            "start": { "line": 37, "column": 12 },
+            "end": { "line": 41, "column": 13 }
+          },
+          {
+            "start": { "line": 37, "column": 12 },
+            "end": { "line": 41, "column": 13 }
+          }
+        ],
+        "line": 37
+      },
+      "1": {
+        "loc": {
+          "start": { "line": 60, "column": 12 },
+          "end": { "line": 62, "column": 13 }
+        },
+        "type": "if",
+        "locations": [
+          {
+            "start": { "line": 60, "column": 12 },
+            "end": { "line": 62, "column": 13 }
+          },
+          {
+            "start": { "line": 60, "column": 12 },
+            "end": { "line": 62, "column": 13 }
+          }
+        ],
+        "line": 60
+      }
+    },
+    "s": {
+      "0": 1,
+      "1": 1,
+      "2": 3,
+      "3": 2,
+      "4": 1,
+      "5": 1,
+      "6": 1,
+      "7": 1,
+      "8": 2,
+      "9": 1,
+      "10": 1,
+      "11": 1,
+      "12": 1,
+      "13": 1,
+      "14": 1,
+      "15": 1,
+      "16": 1,
+      "17": 2,
+      "18": 1,
+      "19": 2,
+      "20": 1,
+      "21": 1
+    },
+    "f": { "0": 3, "1": 2, "2": 1, "3": 1, "4": 1, "5": 1 },
+    "b": { "0": [1, 1], "1": [1, 1] },
+    "inputSourceMap": {
+      "version": 3,
+      "file": "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-3/Biblioteca.ts",
+      "sources": [
+        "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-3/Biblioteca.ts"
+      ],
+      "names": [],
+      "mappings": ";;;AAEA;;GAEG;AACH,MAAa,UAAU;IACb,cAAc,CAAiB;IAEvC;;;OAGG;IACH,YAAY,aAA6B;QACvC,IAAI,CAAC,cAAc,GAAG,aAAa,CAAC;IACtC,CAAC;IAED;;OAEG;IACH,IAAI,aAAa;QACf,OAAO,IAAI,CAAC,cAAc,CAAC;IAC7B,CAAC;IAED;;;OAGG;IACH,IAAI,aAAa,CAAC,aAAa;QAC7B,IAAI,CAAC,cAAc,GAAG,aAAa,CAAC;IACtC,CAAC;IAED;;;;OAIG;IACH,YAAY,CAAC,MAAc;QACzB,MAAM,KAAK,GAAmB,EAAE,CAAC;QACjC,KAAK,IAAI,CAAC,GAAG,CAAC,EAAE,CAAC,GAAG,IAAI,CAAC,cAAc,CAAC,MAAM,EAAE,EAAE,CAAC,EAAE;YACnD,IACE,IAAI,CAAC,cAAc,CAAC,CAAC,CAAC,CAAC,MAAM;iBAC1B,WAAW,EAAE;iBACb,QAAQ,CAAC,MAAM,CAAC,WAAW,EAAE,CAAC,KAAK,IAAI,EAC1C;gBACA,KAAK,CAAC,IAAI,CAAC,IAAI,CAAC,cAAc,CAAC,CAAC,CAAC,CAAC,CAAC;aACpC;SACF;QACD,OAAO,CAAC,KAAK,CAAC,KAAK,CAAC,CAAC;QACrB,OAAO,KAAK,CAAC;IACf,CAAC;IAED;;;OAGG;IACH,SAAS,CAAC,OAAgB;QACxB,IAAI,CAAC,cAAc,CAAC,IAAI,CAAC,OAAO,CAAC,CAAC;IACpC,CAAC;IAED;;OAEG;IACH,KAAK;QACH,OAAO,CAAC,KAAK,CAAC,IAAI,CAAC,cAAc,CAAC,CAAC;QACnC,IAAI,KAAK,GAAG,EAAE,CAAA;QACd,KAAK,IAAI,CAAC,GAAG,CAAC,EAAE,CAAC,GAAG,IAAI,CAAC,cAAc,CAAC,MAAM,EAAE,EAAE,CAAC,EAAE;YACnD,IAAI,CAAC,KAAK,CAAC,EAAE;gBACX,KAAK,IAAI,IAAI,CAAA;aACd;YACD,KAAK,IAAI,GAAG,IAAI,CAAC,cAAc,CAAC,CAAC,CAAC,CAAC,MAAM,EAAE,CAAA;SAC5C;QACD,OAAO,KAAK,CAAA;IACd,CAAC;CACF;AApED,gCAoEC",
+      "sourcesContent": [
+        "import { Artista } from \"./Artista\";\n\n/**\n * Clase que permite gestionar una lista de artistas\n */\nexport class Biblioteca {\n  private _listaArtistas: Array<Artista>;\n\n  /**\n   * Constructor de la clase biblioteca\n   * @param listaArtistas Array de artistas\n   */\n  constructor(listaArtistas: Array<Artista>) {\n    this._listaArtistas = listaArtistas;\n  }\n\n  /**\n   * Getter de la lista de artistas\n   */\n  get listaArtistas() {\n    return this._listaArtistas;\n  }\n\n  /**\n   * Setter de la lista de artistas\n   * @param listaArtistas nueva lista de artistas\n   */\n  set listaArtistas(listaArtistas) {\n    this._listaArtistas = listaArtistas;\n  }\n\n  /**\n   * Función que busca artistas en la discografia\n   * @param nombre Nombre del artista a buscar\n   * @returns Lista de artistas que coinciden con la busqueda\n   */\n  searchArtist(nombre: string): Array<Artista> {\n    const lista: Array<Artista> = [];\n    for (let i = 0; i < this._listaArtistas.length; ++i) {\n      if (\n        this._listaArtistas[i].nombre\n          .toLowerCase()\n          .includes(nombre.toLowerCase()) === true\n      ) {\n        lista.push(this._listaArtistas[i]);\n      }\n    }\n    console.table(lista);\n    return lista;\n  }\n\n  /**\n   * Función que permite añadir artistas a la lista\n   * @param artista Artista a añadir\n   */\n  addArtist(artista: Artista): void {\n    this._listaArtistas.push(artista);\n  }\n\n  /**\n   * Método que imprime la lista de artistas\n   */\n  print() {\n    console.table(this._listaArtistas);\n    let print = \"\"\n    for (let i = 0; i < this._listaArtistas.length; ++i) {\n      if (i !== 0) {\n        print += \", \"\n      }\n      print += `${this._listaArtistas[i].nombre}`\n    }\n    return print\n  }\n}\n"
+      ]
+    },
+    "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
+    "hash": "e3ebe9a5937fc0669e237cb11482c6c4a2a7b68c",
+    "contentHash": "03f744bc40e50d523a452e54af112a8e9bd5d86627079867637c875533a8e770"
+  },
+  "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-3/Grupo.ts": {
+    "path": "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-3/Grupo.ts",
+    "statementMap": {
+      "0": {
+        "start": { "line": 2, "column": 0 },
+        "end": { "line": 2, "column": 62 }
+      },
+      "1": {
+        "start": { "line": 3, "column": 0 },
+        "end": { "line": 3, "column": 23 }
+      },
+      "2": {
+        "start": { "line": 4, "column": 18 },
+        "end": { "line": 4, "column": 38 }
+      },
+      "3": {
+        "start": { "line": 16, "column": 8 },
+        "end": { "line": 16, "column": 44 }
+      },
+      "4": {
+        "start": { "line": 19, "column": 0 },
+        "end": { "line": 19, "column": 22 }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "(anonymous_0)",
+        "decl": {
+          "start": { "line": 15, "column": 4 },
+          "end": { "line": 15, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 15, "column": 46 },
+          "end": { "line": 17, "column": 5 }
+        },
+        "line": 15
+      }
+    },
+    "branchMap": {},
+    "s": { "0": 1, "1": 1, "2": 1, "3": 3, "4": 1 },
+    "f": { "0": 3 },
+    "b": {},
+    "inputSourceMap": {
+      "version": 3,
+      "file": "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-3/Grupo.ts",
+      "sources": [
+        "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-3/Grupo.ts"
+      ],
+      "names": [],
+      "mappings": ";;;AAAA,uCAAoC;AAMpC;;GAEG;AACH,MAAa,KAAM,SAAQ,iBAAO;IAE9B;;;;;OAKG;IACH,YAAa,MAAc,EAAE,OAAe,EAAE,WAAsC;QAChF,KAAK,CAAC,MAAM,EAAE,OAAO,EAAE,WAAW,CAAC,CAAA;IACvC,CAAC;CACJ;AAXD,sBAWC",
+      "sourcesContent": [
+        "import { Artista } from \"./Artista\";\nimport { Disco } from \"./Disco\";\nimport { Discografia } from \"./Discografia\";\nimport { Single } from \"./Single\";\n\n\n/**\n * Clase que representa a un grupo\n */\nexport class Grupo extends Artista {\n\n    /**\n     * Constructor de la clase Grupo\n     * @param nombre Nombre del Grupo\n     * @param oyentes Nº de oyentes mensuales\n     * @param discografia Discografía del Grupo\n     */\n    constructor( nombre: string, oyentes: number, discografia: Discografia<Disco|Single>) {\n        super(nombre, oyentes, discografia)\n    }\n}"
+      ]
+    },
+    "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
+    "hash": "0a4af856af9b45f3d8b2f4ebba0fef691171d6b9",
+    "contentHash": "5c4e351094078c6347023b85a917c2a4d045a0f76aa7c87eaaf592c417b831c2"
+  },
+  "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-3/Artista.ts": {
+    "path": "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-3/Artista.ts",
+    "statementMap": {
+      "0": {
+        "start": { "line": 2, "column": 0 },
+        "end": { "line": 2, "column": 62 }
+      },
+      "1": {
+        "start": { "line": 3, "column": 0 },
+        "end": { "line": 3, "column": 25 }
+      },
+      "2": {
+        "start": { "line": 18, "column": 8 },
+        "end": { "line": 20, "column": 9 }
+      },
+      "3": {
+        "start": { "line": 19, "column": 12 },
+        "end": { "line": 19, "column": 105 }
+      },
+      "4": {
+        "start": { "line": 21, "column": 8 },
+        "end": { "line": 21, "column": 30 }
+      },
+      "5": {
+        "start": { "line": 22, "column": 8 },
+        "end": { "line": 22, "column": 32 }
+      },
+      "6": {
+        "start": { "line": 23, "column": 8 },
+        "end": { "line": 23, "column": 40 }
+      },
+      "7": {
+        "start": { "line": 29, "column": 8 },
+        "end": { "line": 29, "column": 28 }
+      },
+      "8": {
+        "start": { "line": 36, "column": 8 },
+        "end": { "line": 36, "column": 30 }
+      },
+      "9": {
+        "start": { "line": 42, "column": 8 },
+        "end": { "line": 42, "column": 29 }
+      },
+      "10": {
+        "start": { "line": 49, "column": 8 },
+        "end": { "line": 49, "column": 32 }
+      },
+      "11": {
+        "start": { "line": 55, "column": 8 },
+        "end": { "line": 55, "column": 33 }
+      },
+      "12": {
+        "start": { "line": 62, "column": 8 },
+        "end": { "line": 62, "column": 40 }
+      },
+      "13": {
+        "start": { "line": 65, "column": 8 },
+        "end": { "line": 65, "column": 72 }
+      },
+      "14": {
+        "start": { "line": 66, "column": 20 },
+        "end": { "line": 66, "column": 75 }
+      },
+      "15": {
+        "start": { "line": 67, "column": 8 },
+        "end": { "line": 69, "column": 9 }
+      },
+      "16": {
+        "start": { "line": 67, "column": 21 },
+        "end": { "line": 67, "column": 22 }
+      },
+      "17": {
+        "start": { "line": 68, "column": 12 },
+        "end": { "line": 68, "column": 68 }
+      },
+      "18": {
+        "start": { "line": 70, "column": 8 },
+        "end": { "line": 70, "column": 21 }
+      },
+      "19": {
+        "start": { "line": 73, "column": 0 },
+        "end": { "line": 73, "column": 26 }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "(anonymous_0)",
+        "decl": {
+          "start": { "line": 17, "column": 4 },
+          "end": { "line": 17, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 17, "column": 46 },
+          "end": { "line": 24, "column": 5 }
+        },
+        "line": 17
+      },
+      "1": {
+        "name": "(anonymous_1)",
+        "decl": {
+          "start": { "line": 28, "column": 4 },
+          "end": { "line": 28, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 28, "column": 17 },
+          "end": { "line": 30, "column": 5 }
+        },
+        "line": 28
+      },
+      "2": {
+        "name": "(anonymous_2)",
+        "decl": {
+          "start": { "line": 35, "column": 4 },
+          "end": { "line": 35, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 35, "column": 23 },
+          "end": { "line": 37, "column": 5 }
+        },
+        "line": 35
+      },
+      "3": {
+        "name": "(anonymous_3)",
+        "decl": {
+          "start": { "line": 41, "column": 4 },
+          "end": { "line": 41, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 41, "column": 18 },
+          "end": { "line": 43, "column": 5 }
+        },
+        "line": 41
+      },
+      "4": {
+        "name": "(anonymous_4)",
+        "decl": {
+          "start": { "line": 48, "column": 4 },
+          "end": { "line": 48, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 48, "column": 25 },
+          "end": { "line": 50, "column": 5 }
+        },
+        "line": 48
+      },
+      "5": {
+        "name": "(anonymous_5)",
+        "decl": {
+          "start": { "line": 54, "column": 4 },
+          "end": { "line": 54, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 54, "column": 22 },
+          "end": { "line": 56, "column": 5 }
+        },
+        "line": 54
+      },
+      "6": {
+        "name": "(anonymous_6)",
+        "decl": {
+          "start": { "line": 61, "column": 4 },
+          "end": { "line": 61, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 61, "column": 33 },
+          "end": { "line": 63, "column": 5 }
+        },
+        "line": 61
+      },
+      "7": {
+        "name": "(anonymous_7)",
+        "decl": {
+          "start": { "line": 64, "column": 4 },
+          "end": { "line": 64, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 64, "column": 12 },
+          "end": { "line": 71, "column": 5 }
+        },
+        "line": 64
+      }
+    },
+    "branchMap": {
+      "0": {
+        "loc": {
+          "start": { "line": 18, "column": 8 },
+          "end": { "line": 20, "column": 9 }
+        },
+        "type": "if",
+        "locations": [
+          {
+            "start": { "line": 18, "column": 8 },
+            "end": { "line": 20, "column": 9 }
+          },
+          {
+            "start": { "line": 18, "column": 8 },
+            "end": { "line": 20, "column": 9 }
+          }
+        ],
+        "line": 18
+      }
+    },
+    "s": {
+      "0": 1,
+      "1": 1,
+      "2": 9,
+      "3": 2,
+      "4": 7,
+      "5": 7,
+      "6": 7,
+      "7": 6,
+      "8": 1,
+      "9": 2,
+      "10": 1,
+      "11": 2,
+      "12": 1,
+      "13": 1,
+      "14": 1,
+      "15": 1,
+      "16": 1,
+      "17": 2,
+      "18": 1,
+      "19": 1
+    },
+    "f": { "0": 9, "1": 6, "2": 1, "3": 2, "4": 1, "5": 2, "6": 1, "7": 1 },
+    "b": { "0": [2, 7] },
+    "inputSourceMap": {
+      "version": 3,
+      "file": "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-3/Artista.ts",
+      "sources": [
+        "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-3/Artista.ts"
+      ],
+      "names": [],
+      "mappings": ";;;AAKA;;GAEG;AACH,MAAsB,OAAO;IACnB,OAAO,CAAS;IAChB,QAAQ,CAAS;IACjB,YAAY,CAA4B;IAEhD;;;;;OAKG;IACH,YACE,MAAc,EACd,OAAe,EACf,WAAsC;QAEtC,IAAI,MAAM,CAAC,IAAI,CAAC,OAAO,CAAC,QAAQ,EAAE,CAAC,KAAK,IAAI,EAAE;YAC5C,MAAM,IAAI,SAAS,CACjB,uEAAuE,CACxE,CAAC;SACH;QACD,IAAI,CAAC,OAAO,GAAG,MAAM,CAAC;QACtB,IAAI,CAAC,QAAQ,GAAG,OAAO,CAAC;QACxB,IAAI,CAAC,YAAY,GAAG,WAAW,CAAC;IAClC,CAAC;IAED;;OAEG;IACH,IAAI,MAAM;QACR,OAAO,IAAI,CAAC,OAAO,CAAC;IACtB,CAAC;IAED;;;OAGG;IACH,IAAI,MAAM,CAAC,MAAM;QACf,IAAI,CAAC,OAAO,GAAG,MAAM,CAAC;IACxB,CAAC;IAED;;OAEG;IACH,IAAI,OAAO;QACT,OAAO,IAAI,CAAC,QAAQ,CAAC;IACvB,CAAC;IAED;;;OAGG;IACH,IAAI,OAAO,CAAC,OAAO;QACjB,IAAI,CAAC,QAAQ,GAAG,OAAO,CAAC;IAC1B,CAAC;IAED;;OAEG;IACH,IAAI,WAAW;QACb,OAAO,IAAI,CAAC,YAAY,CAAC;IAC3B,CAAC;IAED;;;OAGG;IACH,IAAI,WAAW,CAAC,WAAW;QACzB,IAAI,CAAC,YAAY,GAAG,WAAW,CAAC;IAClC,CAAC;IAED,KAAK;QACH,OAAO,CAAC,KAAK,CAAC,CAAC,IAAI,CAAC,OAAO,EAAE,IAAI,CAAC,QAAQ,EAAE,IAAI,CAAC,YAAY,CAAC,CAAC,CAAC;QAChE,IAAI,KAAK,GAAI,GAAG,IAAI,CAAC,OAAO,KAAK,IAAI,CAAC,QAAQ,sBAAsB,CAAA;QACpE,KAAK,IAAI,CAAC,GAAG,CAAC,EAAE,CAAC,GAAG,IAAI,CAAC,YAAY,CAAC,WAAW,CAAC,MAAM,EAAE,EAAE,CAAC,EAAE;YAC7D,KAAK,IAAI,KAAK,IAAI,CAAC,YAAY,CAAC,WAAW,CAAC,CAAC,CAAC,CAAC,MAAM,EAAE,CAAA;SACxD;QACD,OAAO,KAAK,CAAA;IACd,CAAC;CACF;AA/ED,0BA+EC",
+      "sourcesContent": [
+        "import { Disco } from \"./Disco\";\nimport { Discografia } from \"./Discografia\";\nimport { Single } from \"./Single\";\n\n\n/**\n * Clase para representar un artista\n */\nexport abstract class Artista {\n  private _nombre: string;\n  private _oyentes: number;\n  private _discografia: Discografia<Disco|Single>;\n\n  /**\n   * Constructor de la clase artista\n   * @param nombre Nombre del artista\n   * @param oyentes Nº de oyentes mensuales\n   * @param discografia Discografía del artista\n   */\n  constructor(\n    nombre: string,\n    oyentes: number,\n    discografia: Discografia<Disco|Single>\n  ) {\n    if (/\\.|-/.test(oyentes.toString()) === true) {\n      throw new TypeError(\n        \"La cantidad de oyentes mensuales debe de ser un valor entero positivo\"\n      );\n    }\n    this._nombre = nombre;\n    this._oyentes = oyentes;\n    this._discografia = discografia;\n  }\n\n  /**\n   * Getter del nombre del artista\n   */\n  get nombre(): string {\n    return this._nombre;\n  }\n\n  /**\n   * Setter del nombre del artista\n   * @param nombre Nuevo nombre de artista\n   */\n  set nombre(nombre) {\n    this._nombre = nombre;\n  }\n\n  /**\n   * Getter del número de oyentes mensuales\n   */\n  get oyentes(): number {\n    return this._oyentes;\n  }\n\n  /**\n   * Setter del número de oyentes mensuales\n   * @param oyentes Nuevo número de oyentes\n   */\n  set oyentes(oyentes) {\n    this._oyentes = oyentes;\n  }\n\n  /**\n   * Getter de la discografía del artista\n   */\n  get discografia() {\n    return this._discografia;\n  }\n\n  /**\n   * Setter de la discografía del artista\n   * @param discografia Nueva Discografia\n   */\n  set discografia(discografia) {\n    this._discografia = discografia;\n  }\n\n  print() {\n    console.table([this._nombre, this._oyentes, this._discografia]);\n    let print =  `${this._nombre} (${this._oyentes} oyentes mensuales):`\n    for (let i = 0; i < this._discografia.discografia.length; ++i) {\n      print += `\\n${this._discografia.discografia[i].nombre}`\n    }\n    return print\n  }\n}\n\n"
+      ]
+    },
+    "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
+    "hash": "eca20731037518f42740a710b0d14c24483556b1",
+    "contentHash": "8599b3b3c991be804f0031f222f4a2bbfb0989843edadd4a28cdf44eb67a514d"
+  },
+  "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-3/Solista.ts": {
+    "path": "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-3/Solista.ts",
+    "statementMap": {
+      "0": {
+        "start": { "line": 2, "column": 0 },
+        "end": { "line": 2, "column": 62 }
+      },
+      "1": {
+        "start": { "line": 3, "column": 0 },
+        "end": { "line": 3, "column": 25 }
+      },
+      "2": {
+        "start": { "line": 4, "column": 18 },
+        "end": { "line": 4, "column": 38 }
+      },
+      "3": {
+        "start": { "line": 16, "column": 8 },
+        "end": { "line": 16, "column": 44 }
+      },
+      "4": {
+        "start": { "line": 19, "column": 0 },
+        "end": { "line": 19, "column": 26 }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "(anonymous_0)",
+        "decl": {
+          "start": { "line": 15, "column": 4 },
+          "end": { "line": 15, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 15, "column": 46 },
+          "end": { "line": 17, "column": 5 }
+        },
+        "line": 15
+      }
+    },
+    "branchMap": {},
+    "s": { "0": 1, "1": 1, "2": 1, "3": 6, "4": 1 },
+    "f": { "0": 6 },
+    "b": {},
+    "inputSourceMap": {
+      "version": 3,
+      "file": "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-3/Solista.ts",
+      "sources": [
+        "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-3/Solista.ts"
+      ],
+      "names": [],
+      "mappings": ";;;AAAA,uCAAoC;AAKpC;;GAEG;AACH,MAAa,OAAQ,SAAQ,iBAAO;IAEhC;;;;;OAKG;IACH,YAAa,MAAc,EAAE,OAAe,EAAE,WAAsC;QAChF,KAAK,CAAC,MAAM,EAAE,OAAO,EAAE,WAAW,CAAC,CAAA;IACvC,CAAC;CACJ;AAXD,0BAWC",
+      "sourcesContent": [
+        "import { Artista } from \"./Artista\";\nimport { Discografia } from \"./Discografia\";\nimport { Disco } from \"./Disco\";\nimport { Single } from \"./Single\";\n\n/**\n * Clase que representa a un Solista\n */\nexport class Solista extends Artista {\n\n    /**\n     * Constructor de la clase Solista\n     * @param nombre Nombre del Solista\n     * @param oyentes Nº de oyentes mensuales\n     * @param discografia Discografía del Solista\n     */\n    constructor( nombre: string, oyentes: number, discografia: Discografia<Disco|Single>) {\n        super(nombre, oyentes, discografia)\n    }\n}"
+      ]
+    },
+    "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
+    "hash": "5b170e38b117199e869fb77c027517ebda2aa915",
+    "contentHash": "eb3c332ae5dc290568b73e9935a725fdf35a82435ad4a7b06331cc24c87bd08c"
+  },
+  "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-3/Single.ts": {
+    "path": "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-3/Single.ts",
+    "statementMap": {
+      "0": {
+        "start": { "line": 2, "column": 0 },
+        "end": { "line": 2, "column": 62 }
+      },
+      "1": {
+        "start": { "line": 3, "column": 0 },
+        "end": { "line": 3, "column": 24 }
+      },
+      "2": {
+        "start": { "line": 18, "column": 8 },
+        "end": { "line": 18, "column": 30 }
+      },
+      "3": {
+        "start": { "line": 19, "column": 8 },
+        "end": { "line": 19, "column": 24 }
+      },
+      "4": {
+        "start": { "line": 20, "column": 8 },
+        "end": { "line": 27, "column": 9 }
+      },
+      "5": {
+        "start": { "line": 20, "column": 21 },
+        "end": { "line": 20, "column": 22 }
+      },
+      "6": {
+        "start": { "line": 21, "column": 12 },
+        "end": { "line": 26, "column": 13 }
+      },
+      "7": {
+        "start": { "line": 25, "column": 16 },
+        "end": { "line": 25, "column": 89 }
+      },
+      "8": {
+        "start": { "line": 28, "column": 8 },
+        "end": { "line": 28, "column": 36 }
+      },
+      "9": {
+        "start": { "line": 34, "column": 8 },
+        "end": { "line": 34, "column": 28 }
+      },
+      "10": {
+        "start": { "line": 41, "column": 8 },
+        "end": { "line": 41, "column": 30 }
+      },
+      "11": {
+        "start": { "line": 47, "column": 8 },
+        "end": { "line": 47, "column": 25 }
+      },
+      "12": {
+        "start": { "line": 54, "column": 8 },
+        "end": { "line": 54, "column": 24 }
+      },
+      "13": {
+        "start": { "line": 60, "column": 8 },
+        "end": { "line": 60, "column": 31 }
+      },
+      "14": {
+        "start": { "line": 67, "column": 8 },
+        "end": { "line": 67, "column": 36 }
+      },
+      "15": {
+        "start": { "line": 70, "column": 0 },
+        "end": { "line": 70, "column": 24 }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "(anonymous_0)",
+        "decl": {
+          "start": { "line": 17, "column": 4 },
+          "end": { "line": 17, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 17, "column": 40 },
+          "end": { "line": 29, "column": 5 }
+        },
+        "line": 17
+      },
+      "1": {
+        "name": "(anonymous_1)",
+        "decl": {
+          "start": { "line": 33, "column": 4 },
+          "end": { "line": 33, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 33, "column": 17 },
+          "end": { "line": 35, "column": 5 }
+        },
+        "line": 33
+      },
+      "2": {
+        "name": "(anonymous_2)",
+        "decl": {
+          "start": { "line": 40, "column": 4 },
+          "end": { "line": 40, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 40, "column": 23 },
+          "end": { "line": 42, "column": 5 }
+        },
+        "line": 40
+      },
+      "3": {
+        "name": "(anonymous_3)",
+        "decl": {
+          "start": { "line": 46, "column": 4 },
+          "end": { "line": 46, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 46, "column": 14 },
+          "end": { "line": 48, "column": 5 }
+        },
+        "line": 46
+      },
+      "4": {
+        "name": "(anonymous_4)",
+        "decl": {
+          "start": { "line": 53, "column": 4 },
+          "end": { "line": 53, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 53, "column": 17 },
+          "end": { "line": 55, "column": 5 }
+        },
+        "line": 53
+      },
+      "5": {
+        "name": "(anonymous_5)",
+        "decl": {
+          "start": { "line": 59, "column": 4 },
+          "end": { "line": 59, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 59, "column": 20 },
+          "end": { "line": 61, "column": 5 }
+        },
+        "line": 59
+      },
+      "6": {
+        "name": "(anonymous_6)",
+        "decl": {
+          "start": { "line": 66, "column": 4 },
+          "end": { "line": 66, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 66, "column": 29 },
+          "end": { "line": 68, "column": 5 }
+        },
+        "line": 66
+      }
+    },
+    "branchMap": {
+      "0": {
+        "loc": {
+          "start": { "line": 21, "column": 12 },
+          "end": { "line": 26, "column": 13 }
+        },
+        "type": "if",
+        "locations": [
+          {
+            "start": { "line": 21, "column": 12 },
+            "end": { "line": 26, "column": 13 }
+          },
+          {
+            "start": { "line": 21, "column": 12 },
+            "end": { "line": 26, "column": 13 }
+          }
+        ],
+        "line": 21
+      },
+      "1": {
+        "loc": {
+          "start": { "line": 21, "column": 16 },
+          "end": { "line": 24, "column": 48 }
+        },
+        "type": "binary-expr",
+        "locations": [
+          {
+            "start": { "line": 21, "column": 16 },
+            "end": { "line": 23, "column": 57 }
+          },
+          {
+            "start": { "line": 24, "column": 19 },
+            "end": { "line": 24, "column": 48 }
+          }
+        ],
+        "line": 21
+      }
+    },
+    "s": {
+      "0": 1,
+      "1": 1,
+      "2": 3,
+      "3": 3,
+      "4": 3,
+      "5": 3,
+      "6": 3,
+      "7": 2,
+      "8": 1,
+      "9": 2,
+      "10": 2,
+      "11": 2,
+      "12": 2,
+      "13": 2,
+      "14": 2,
+      "15": 1
+    },
+    "f": { "0": 3, "1": 2, "2": 2, "3": 2, "4": 2, "5": 2, "6": 2 },
+    "b": { "0": [2, 1], "1": [3, 2] },
+    "inputSourceMap": {
+      "version": 3,
+      "file": "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-3/Single.ts",
+      "sources": [
+        "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-3/Single.ts"
+      ],
+      "names": [],
+      "mappings": ";;;AAEA;;GAEG;AACH,MAAa,MAAM;IACT,OAAO,CAAS;IAChB,IAAI,CAAS;IACb,UAAU,CAAY;IAE9B;;;;;OAKG;IACH,YAAY,MAAc,EAAE,GAAW,EAAE,SAAoB;QAC3D,IAAI,CAAC,OAAO,GAAG,MAAM,CAAC;QACtB,IAAI,CAAC,IAAI,GAAG,GAAG,CAAC;QAChB,KAAK,IAAI,CAAC,GAAG,CAAC,EAAE,CAAC,GAAG,SAAS,CAAC,MAAM,EAAE,EAAE,CAAC,EAAE;YACzC,IACE,SAAS,CAAC,CAAC,CAAC,CAAC,MAAM;iBAChB,WAAW,EAAE;iBACb,QAAQ,CAAC,MAAM,CAAC,WAAW,EAAE,CAAC,KAAK,KAAK;mBACtC,SAAS,CAAC,CAAC,CAAC,CAAC,MAAM,KAAK,KAAK,EAClC;gBACA,MAAM,IAAI,KAAK,CACb,uDAAuD,CACxD,CAAC;aACH;SACF;QACD,IAAI,CAAC,UAAU,GAAG,SAAS,CAAC;IAC9B,CAAC;IAED;;OAEG;IACH,IAAI,MAAM;QACR,OAAO,IAAI,CAAC,OAAO,CAAC;IACtB,CAAC;IAED;;;OAGG;IACH,IAAI,MAAM,CAAC,MAAM;QACf,IAAI,CAAC,OAAO,GAAG,MAAM,CAAC;IACxB,CAAC;IAED;;OAEG;IACH,IAAI,GAAG;QACL,OAAO,IAAI,CAAC,IAAI,CAAC;IACnB,CAAC;IAED;;;OAGG;IACH,IAAI,GAAG,CAAC,GAAG;QACT,IAAI,CAAC,IAAI,GAAG,GAAG,CAAC;IAClB,CAAC;IAED;;OAEG;IACH,IAAI,SAAS;QACX,OAAO,IAAI,CAAC,UAAU,CAAC;IACzB,CAAC;IAED;;;OAGG;IACH,IAAI,SAAS,CAAC,SAAoB;QAChC,IAAI,CAAC,UAAU,GAAG,SAAS,CAAC;IAC9B,CAAC;CACF;AAzED,wBAyEC",
+      "sourcesContent": [
+        "import { Cancion } from \"./Cancion\";\n\n/**\n * Clase que representa un disco\n */\nexport class Single {\n  private _nombre: string;\n  private _año: number;\n  private _canciones: Cancion[];\n\n  /**\n   * Constructor de la clase disco\n   * @param nombre Nombre del disco\n   * @param año Año de salida\n   * @param canciones Canciones del single\n   */\n  constructor(nombre: string, año: number, canciones: Cancion[]) {\n    this._nombre = nombre;\n    this._año = año;\n    for (let i = 0; i < canciones.length; ++i) {\n      if (\n        canciones[i].nombre\n          .toLowerCase()\n          .includes(nombre.toLowerCase()) === false\n          || canciones[i].single === false\n      ) {\n        throw new Error(\n          \"Existe una canción en el single que no es una version\"\n        );\n      }\n    }\n    this._canciones = canciones;\n  }\n\n  /**\n   * Getter del nombre del disco\n   */\n  get nombre() {\n    return this._nombre;\n  }\n\n  /**\n   * Setter del nombre del disco\n   * @param nombre Nuevo nombre de disco\n   */\n  set nombre(nombre) {\n    this._nombre = nombre;\n  }\n\n  /**\n   * Getter del año del disco\n   */\n  get año() {\n    return this._año;\n  }\n\n  /**\n   * Setter del año del disco\n   * @param año nuevo año\n   */\n  set año(año) {\n    this._año = año;\n  }\n\n  /**\n   * Getter de la lista de cancion\n   */\n  get canciones() {\n    return this._canciones;\n  }\n\n  /**\n   * Setter de la lista de canciones\n   * @param canciones nueva lista de canciones\n   */\n  set canciones(canciones: Cancion[]) {\n    this._canciones = canciones;\n  }\n}\n\n"
+      ]
+    },
+    "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
+    "hash": "c18e6dc3fcba9d636af9c73a0aaa49b399ee0ac2",
+    "contentHash": "372a6b0fb3ff7449e4b501b95ff6f7f7379a47343d53242fc20072e5652b7bc1"
+  },
+  "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-pe1/NumericPrintableCollection.ts": {
+    "path": "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-pe1/NumericPrintableCollection.ts",
+    "statementMap": {
+      "0": {
+        "start": { "line": 2, "column": 0 },
+        "end": { "line": 2, "column": 62 }
+      },
+      "1": {
+        "start": { "line": 3, "column": 0 },
+        "end": { "line": 3, "column": 44 }
+      },
+      "2": {
+        "start": { "line": 4, "column": 30 },
+        "end": { "line": 4, "column": 62 }
+      },
+      "3": {
+        "start": { "line": 14, "column": 8 },
+        "end": { "line": 14, "column": 26 }
+      },
+      "4": {
+        "start": { "line": 21, "column": 8 },
+        "end": { "line": 21, "column": 42 }
+      },
+      "5": {
+        "start": { "line": 24, "column": 0 },
+        "end": { "line": 24, "column": 64 }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "(anonymous_0)",
+        "decl": {
+          "start": { "line": 13, "column": 4 },
+          "end": { "line": 13, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 13, "column": 28 },
+          "end": { "line": 15, "column": 5 }
+        },
+        "line": 13
+      },
+      "1": {
+        "name": "(anonymous_1)",
+        "decl": {
+          "start": { "line": 20, "column": 4 },
+          "end": { "line": 20, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 20, "column": 12 },
+          "end": { "line": 22, "column": 5 }
+        },
+        "line": 20
+      }
+    },
+    "branchMap": {},
+    "s": { "0": 1, "1": 1, "2": 1, "3": 2, "4": 1, "5": 1 },
+    "f": { "0": 2, "1": 1 },
+    "b": {},
+    "inputSourceMap": {
+      "version": 3,
+      "file": "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-pe1/NumericPrintableCollection.ts",
+      "sources": [
+        "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-pe1/NumericPrintableCollection.ts"
+      ],
+      "names": [],
+      "mappings": ";;;AAAA,+DAA4D;AAE5D;;GAEG;AACH,MAAa,0BAA2B,SAAQ,yCAA2B;IACvE;;;OAGG;IACH,YAAY,UAAoB;QAC5B,KAAK,CAAC,UAAU,CAAC,CAAA;IACrB,CAAC;IAED;;;OAGG;IACH,KAAK;QACD,OAAO,IAAI,CAAC,UAAU,CAAC,QAAQ,EAAE,CAAA;IACrC,CAAC;CAEJ;AAjBD,gEAiBC",
+      "sourcesContent": [
+        "import { PrintableCollection } from \"./PrintableCollection\";\n\n/**\n * Clase que permite manejar e imrpimir una colección de números\n */\nexport class NumericPrintableCollection extends PrintableCollection<number> {\n    /**\n     * Constructor de la colección\n     * @param collection Colección \n     */\n    constructor(collection: number[]) {\n        super(collection)\n    }\n\n    /**\n     * Función que permite \"imprimir\" la colección de números\n     * @returns String que contiene los datos organizados de manera imprimible\n     */\n    print(): string {\n        return this.collection.toString()\n    }\n\n}"
+      ]
+    },
+    "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
+    "hash": "b1f2ebf5e75b91768be3185bdeb931749aad5997",
+    "contentHash": "0f661839c64a74426d46cb41a94a11d32fbca806f6cef1955e75192cdb4fa377"
+  },
+  "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-pe1/PrintableCollection.ts": {
+    "path": "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-pe1/PrintableCollection.ts",
+    "statementMap": {
+      "0": {
+        "start": { "line": 2, "column": 0 },
+        "end": { "line": 2, "column": 62 }
+      },
+      "1": {
+        "start": { "line": 3, "column": 0 },
+        "end": { "line": 3, "column": 37 }
+      },
+      "2": {
+        "start": { "line": 14, "column": 8 },
+        "end": { "line": 14, "column": 37 }
+      },
+      "3": {
+        "start": { "line": 22, "column": 8 },
+        "end": { "line": 24, "column": 9 }
+      },
+      "4": {
+        "start": { "line": 23, "column": 12 },
+        "end": { "line": 23, "column": 29 }
+      },
+      "5": {
+        "start": { "line": 25, "column": 8 },
+        "end": { "line": 25, "column": 38 }
+      },
+      "6": {
+        "start": { "line": 32, "column": 8 },
+        "end": { "line": 32, "column": 35 }
+      },
+      "7": {
+        "start": { "line": 40, "column": 8 },
+        "end": { "line": 42, "column": 9 }
+      },
+      "8": {
+        "start": { "line": 41, "column": 12 },
+        "end": { "line": 41, "column": 29 }
+      },
+      "9": {
+        "start": { "line": 43, "column": 8 },
+        "end": { "line": 43, "column": 51 }
+      },
+      "10": {
+        "start": { "line": 50, "column": 8 },
+        "end": { "line": 50, "column": 38 }
+      },
+      "11": {
+        "start": { "line": 53, "column": 0 },
+        "end": { "line": 53, "column": 50 }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "(anonymous_0)",
+        "decl": {
+          "start": { "line": 13, "column": 4 },
+          "end": { "line": 13, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 13, "column": 28 },
+          "end": { "line": 15, "column": 5 }
+        },
+        "line": 13
+      },
+      "1": {
+        "name": "(anonymous_1)",
+        "decl": {
+          "start": { "line": 21, "column": 4 },
+          "end": { "line": 21, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 21, "column": 19 },
+          "end": { "line": 26, "column": 5 }
+        },
+        "line": 21
+      },
+      "2": {
+        "name": "(anonymous_2)",
+        "decl": {
+          "start": { "line": 31, "column": 4 },
+          "end": { "line": 31, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 31, "column": 18 },
+          "end": { "line": 33, "column": 5 }
+        },
+        "line": 31
+      },
+      "3": {
+        "name": "(anonymous_3)",
+        "decl": {
+          "start": { "line": 39, "column": 4 },
+          "end": { "line": 39, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 39, "column": 22 },
+          "end": { "line": 44, "column": 5 }
+        },
+        "line": 39
+      },
+      "4": {
+        "name": "(anonymous_4)",
+        "decl": {
+          "start": { "line": 49, "column": 4 },
+          "end": { "line": 49, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 49, "column": 23 },
+          "end": { "line": 51, "column": 5 }
+        },
+        "line": 49
+      }
+    },
+    "branchMap": {
+      "0": {
+        "loc": {
+          "start": { "line": 22, "column": 8 },
+          "end": { "line": 24, "column": 9 }
+        },
+        "type": "if",
+        "locations": [
+          {
+            "start": { "line": 22, "column": 8 },
+            "end": { "line": 24, "column": 9 }
+          },
+          {
+            "start": { "line": 22, "column": 8 },
+            "end": { "line": 24, "column": 9 }
+          }
+        ],
+        "line": 22
+      },
+      "1": {
+        "loc": {
+          "start": { "line": 22, "column": 12 },
+          "end": { "line": 22, "column": 56 }
+        },
+        "type": "binary-expr",
+        "locations": [
+          {
+            "start": { "line": 22, "column": 12 },
+            "end": { "line": 22, "column": 21 }
+          },
+          {
+            "start": { "line": 22, "column": 25 },
+            "end": { "line": 22, "column": 56 }
+          }
+        ],
+        "line": 22
+      },
+      "2": {
+        "loc": {
+          "start": { "line": 40, "column": 8 },
+          "end": { "line": 42, "column": 9 }
+        },
+        "type": "if",
+        "locations": [
+          {
+            "start": { "line": 40, "column": 8 },
+            "end": { "line": 42, "column": 9 }
+          },
+          {
+            "start": { "line": 40, "column": 8 },
+            "end": { "line": 42, "column": 9 }
+          }
+        ],
+        "line": 40
+      },
+      "3": {
+        "loc": {
+          "start": { "line": 40, "column": 12 },
+          "end": { "line": 40, "column": 56 }
+        },
+        "type": "binary-expr",
+        "locations": [
+          {
+            "start": { "line": 40, "column": 12 },
+            "end": { "line": 40, "column": 21 }
+          },
+          {
+            "start": { "line": 40, "column": 25 },
+            "end": { "line": 40, "column": 56 }
+          }
+        ],
+        "line": 40
+      }
+    },
+    "s": {
+      "0": 1,
+      "1": 1,
+      "2": 4,
+      "3": 4,
+      "4": 2,
+      "5": 2,
+      "6": 2,
+      "7": 4,
+      "8": 2,
+      "9": 2,
+      "10": 2,
+      "11": 1
+    },
+    "f": { "0": 4, "1": 4, "2": 2, "3": 4, "4": 2 },
+    "b": { "0": [2, 2], "1": [4, 2], "2": [2, 2], "3": [4, 4] },
+    "inputSourceMap": {
+      "version": 3,
+      "file": "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-pe1/PrintableCollection.ts",
+      "sources": [
+        "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-pe1/PrintableCollection.ts"
+      ],
+      "names": [],
+      "mappings": ";;;AAGA;;GAEG;AACH,MAAsB,mBAAmB;IAKlB;IAJnB;;;OAGG;IACH,YAAmB,UAAe;QAAf,eAAU,GAAV,UAAU,CAAK;IAClC,CAAC;IAED;;;;OAIG;IACH,OAAO,CAAC,KAAa;QACjB,IAAI,KAAK,GAAG,CAAC,IAAI,KAAK,IAAI,IAAI,CAAC,UAAU,CAAC,MAAM,EAAE;YAC9C,OAAO,SAAS,CAAA;SACnB;QACD,OAAO,IAAI,CAAC,UAAU,CAAC,KAAK,CAAC,CAAA;IACjC,CAAC;IAED;;;OAGG;IACH,OAAO,CAAC,IAAO;QACX,IAAI,CAAC,UAAU,CAAC,IAAI,CAAC,IAAI,CAAC,CAAA;IAC9B,CAAC;IAED;;;;OAIG;IACH,UAAU,CAAC,KAAa;QACpB,IAAI,KAAK,GAAG,CAAC,IAAI,KAAK,IAAI,IAAI,CAAC,UAAU,CAAC,MAAM,EAAE;YAC9C,OAAO,SAAS,CAAA;SACnB;QACD,OAAO,IAAI,CAAC,UAAU,CAAC,MAAM,CAAC,KAAK,EAAE,CAAC,CAAC,CAAC,CAAC,CAAC,CAAA;IAC9C,CAAC;IAED;;;OAGG;IACH,gBAAgB;QACZ,OAAO,IAAI,CAAC,UAAU,CAAC,MAAM,CAAA;IACjC,CAAC;CAMJ;AApDD,kDAoDC",
+      "sourcesContent": [
+        "import { Collectable } from \"./Collectable\";\nimport { Printable } from \"./Printable\";\n\n/**\n * Clase abstracta de una colección que se puede imprimir\n */\nexport abstract class PrintableCollection<T> implements Collectable<T>, Printable<T>{\n    /**\n     * Constructor de la clase abstracta PrintableCollection\n     * @param collection Colección de elementos\n     */\n    constructor(public collection: T[]) {\n    }\n\n    /**\n     * Método que permite obtener un item de la conexión\n     * @param index Posición del item\n     * @returns El item buscado\n     */\n    getItem(index: number): T {\n        if (index < 0 || index >= this.collection.length) {\n            return undefined\n        }\n        return this.collection[index]\n    }\n\n    /**\n     * Función que añade un item a la conexión\n     * @param item Item a añadir\n     */\n    addItem(item: T): void {\n        this.collection.push(item)\n    }\n\n    /**\n     * Función que elimina un item de la colección\n     * @param index Posición del item a eliminar\n     * @returns El item eliminado\n     */\n    removeItem(index: number): T {\n        if (index < 0 || index >= this.collection.length) {\n            return undefined\n        }\n        return this.collection.splice(index, 1)[0]\n    }\n\n    /**\n     * Función que devuelve el tamaño de la colección\n     * @returns El tamaño de la colección\n     */\n    getNumberOfItems(): number {\n        return this.collection.length\n    }\n\n    /**\n     * Función abstracta que permite imprimir la colección\n     */\n    abstract print(): string;\n}"
+      ]
+    },
+    "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
+    "hash": "42bc71b6775368d0c31a87d1bcd4db58e9077632",
+    "contentHash": "bb898ccb76749f082b815132de31f37f08b7d404bd0834be8b301dde2446e54f"
+  },
+  "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-pe1/StringPrintableCollection.ts": {
+    "path": "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-pe1/StringPrintableCollection.ts",
+    "statementMap": {
+      "0": {
+        "start": { "line": 2, "column": 0 },
+        "end": { "line": 2, "column": 62 }
+      },
+      "1": {
+        "start": { "line": 3, "column": 0 },
+        "end": { "line": 3, "column": 43 }
+      },
+      "2": {
+        "start": { "line": 4, "column": 30 },
+        "end": { "line": 4, "column": 62 }
+      },
+      "3": {
+        "start": { "line": 14, "column": 8 },
+        "end": { "line": 14, "column": 26 }
+      },
+      "4": {
+        "start": { "line": 21, "column": 8 },
+        "end": { "line": 21, "column": 38 }
+      },
+      "5": {
+        "start": { "line": 24, "column": 0 },
+        "end": { "line": 24, "column": 62 }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "(anonymous_0)",
+        "decl": {
+          "start": { "line": 13, "column": 4 },
+          "end": { "line": 13, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 13, "column": 28 },
+          "end": { "line": 15, "column": 5 }
+        },
+        "line": 13
+      },
+      "1": {
+        "name": "(anonymous_1)",
+        "decl": {
+          "start": { "line": 20, "column": 4 },
+          "end": { "line": 20, "column": 5 }
+        },
+        "loc": {
+          "start": { "line": 20, "column": 12 },
+          "end": { "line": 22, "column": 5 }
+        },
+        "line": 20
+      }
+    },
+    "branchMap": {},
+    "s": { "0": 1, "1": 1, "2": 1, "3": 2, "4": 1, "5": 1 },
+    "f": { "0": 2, "1": 1 },
+    "b": {},
+    "inputSourceMap": {
+      "version": 3,
+      "file": "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-pe1/StringPrintableCollection.ts",
+      "sources": [
+        "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-pe1/StringPrintableCollection.ts"
+      ],
+      "names": [],
+      "mappings": ";;;AAAA,+DAA4D;AAE5D;;GAEG;AACH,MAAa,yBAA0B,SAAQ,yCAA2B;IACtE;;;OAGG;IACH,YAAY,UAAoB;QAC5B,KAAK,CAAC,UAAU,CAAC,CAAA;IACrB,CAAC;IAED;;;OAGG;IACH,KAAK;QACD,OAAO,IAAI,CAAC,UAAU,CAAC,IAAI,EAAE,CAAA;IACjC,CAAC;CAEJ;AAjBD,8DAiBC",
+      "sourcesContent": [
+        "import { PrintableCollection } from \"./PrintableCollection\";\n\n/**\n * Clase que permite manejar e imrpimir una colección de strings\n */\nexport class StringPrintableCollection extends PrintableCollection<string> {\n    /**\n     * Constructor de la colección\n     * @param collection Colección \n     */\n    constructor(collection: string[]) {\n        super(collection)\n    }\n\n    /**\n     * Función que permite \"imprimir\" la colección de strings\n     * @returns String que contiene los datos organizados de manera imprimible\n     */\n    print(): string {\n        return this.collection.join()\n    }\n\n}"
+      ]
+    },
+    "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
+    "hash": "844200d77a3987faa0fb2e7548cf5344cb6ac4c9",
+    "contentHash": "f1048e3a16a40279d1daed807cd0ba94dafa79f1ac1d03d5287ac23218e28245"
+  }
+}

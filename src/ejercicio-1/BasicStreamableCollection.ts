@@ -1,24 +1,23 @@
-import { Collectable } from "./Collectable";
 import { Printable } from "./Printable";
-
+import { Streamable } from "./Streamable";
 /**
- * Clase abstracta de una colección que se puede imprimir
+ * Clase abstracta de una colección de emisiones
  */
-export abstract class PrintableCollection<T>
-  implements Collectable<T>, Printable<T>
+export abstract class BasicStreamableCollection<T>
+  implements Streamable<T>, Printable<T>
 {
   /**
-   * Constructor de la clase abstracta PrintableCollection
-   * @param collection Colección de elementos
+   * Constructor de la clase abstracta BasicStreamableCollection
+   * @param collection Colección de emisiones
    */
   constructor(public collection: T[]) {}
 
   /**
-   * Método que permite obtener un item de la conexión
+   * Método que permite obtener un item de la colección de emisiones a partir de su índice
    * @param index Posición del item
    * @returns El item buscado
    */
-  getItem(index: number): T {
+  getItemByIndex(index: number): T {
     if (index < 0 || index >= this.collection.length) {
       return undefined;
     }
@@ -26,7 +25,7 @@ export abstract class PrintableCollection<T>
   }
 
   /**
-   * Función que añade un item a la conexión
+   * Función que añade un item a la colección de emisiones
    * @param item Item a añadir
    */
   addItem(item: T): void {
@@ -34,7 +33,7 @@ export abstract class PrintableCollection<T>
   }
 
   /**
-   * Función que elimina un item de la colección
+   * Función que elimina un item de la colección de emisiones
    * @param index Posición del item a eliminar
    * @returns El item eliminado
    */
@@ -46,15 +45,14 @@ export abstract class PrintableCollection<T>
   }
 
   /**
-   * Función que devuelve el tamaño de la colección
-   * @returns El tamaño de la colección
+   * Función que devuelve el tamaño de la colección de emisiones
+   * @returns El tamaño de la colección de emisiones
    */
   getNumberOfItems(): number {
     return this.collection.length;
   }
 
-  /**
-   * Función abstracta que permite imprimir la colección
-   */
+  abstract getItemByName(name: string): T[];
+  abstract getItemByYear(year: number): T[];
   abstract print(): string;
 }

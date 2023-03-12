@@ -1,0 +1,36 @@
+{
+  "parent": "94393f9f-9c1d-4eab-aa86-6fe3a63e4928",
+  "pid": 61987,
+  "argv": [
+    "/home/usuario/.nvm/versions/node/v19.6.0/bin/node",
+    "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/node_modules/.bin/mocha"
+  ],
+  "execArgv": [],
+  "cwd": "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538",
+  "time": 1678644395780,
+  "ppid": 61986,
+  "coverageFilename": "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/.nyc_output/26ec5727-1393-4858-89a3-1275f358d5a1.json",
+  "externalId": "",
+  "uuid": "26ec5727-1393-4858-89a3-1275f358d5a1",
+  "files": [
+    "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-1/Documental.ts",
+    "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-1/DocumentariesStreamableCollection.ts",
+    "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-1/BasicStreamableCollection.ts",
+    "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-1/MoviesStreamableCollection.ts",
+    "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-1/Pelicula.ts",
+    "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-1/Serie.ts",
+    "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-1/SeriesStreamableCollection.ts",
+    "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-2/Lista.ts",
+    "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-3/Discografia.ts",
+    "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-3/Cancion.ts",
+    "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-3/Disco.ts",
+    "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-3/Biblioteca.ts",
+    "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-3/Grupo.ts",
+    "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-3/Artista.ts",
+    "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-3/Solista.ts",
+    "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-3/Single.ts",
+    "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-pe1/NumericPrintableCollection.ts",
+    "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-pe1/PrintableCollection.ts",
+    "/home/usuario/ull-esit-inf-dsi-22-23-prct06-generics-solid-alu0101437538/src/ejercicio-pe1/StringPrintableCollection.ts"
+  ]
+}
